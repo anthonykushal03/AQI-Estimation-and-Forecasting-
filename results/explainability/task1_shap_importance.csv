@@ -1,0 +1,7 @@
+Feature,Mean |SHAP| (AQI units)
+PM10 (µg/m³),64.514
+PM2.5 (µg/m³),39.529
+CO (mg/m³),2.823
+NO2 (µg/m³),1.7
+NO (µg/m³),1.387
+NOx (ppb),1.225

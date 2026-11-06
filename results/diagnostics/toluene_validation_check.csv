@@ -1,0 +1,5 @@
+Features,Model,Validation R2,Validation RMSE
+With Toluene,Random Forest,0.9027,32.784
+With Toluene,XGBoost,0.8886,35.0781
+Without Toluene,Random Forest,0.9013,33.0047
+Without Toluene,XGBoost,0.8922,34.5045

@@ -1,0 +1,18 @@
+Variable,Correlation with AQI
+PM10 (µg/m³),0.9168
+PM2.5 (µg/m³),0.8607
+NOx (ppb),0.6668
+NO (µg/m³),0.6341
+NO2 (µg/m³),0.5009
+CO (mg/m³),0.3623
+Toluene (µg/m³),0.3339
+NH3 (µg/m³),0.204
+WD (deg),0.1675
+SO2 (µg/m³),0.1493
+SR (W/mt2),0.0758
+Benzene (µg/m³),0.0344
+RH (%),0.0282
+BP (mmHg),-0.0535
+Ozone (µg/m³),-0.2131
+WS (m/s),-0.3829
+AT (°C),-0.5088

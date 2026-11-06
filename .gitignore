@@ -1,0 +1,15 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+.pytest_cache/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw CPCB data files are not published by default (see data/README.md).
+# Delete the line below if you decide to include the CSV files in the repository.
+data/*.csv

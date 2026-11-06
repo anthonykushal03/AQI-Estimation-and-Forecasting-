@@ -1,0 +1,1828 @@
+Timestamp,AQI,AQI_measured,AQI_Class,Predicted_AQI_RF,Predicted_AQI_Class_RF
+2020-01-01,446.0,True,Severe,440.338,Severe
+2020-01-02,407.0,True,Severe,417.762,Severe
+2020-01-03,384.0,True,Very Poor,406.82,Severe
+2020-01-04,366.5,False,Very Poor,340.606,Very Poor
+2020-01-05,349.0,True,Very Poor,345.204,Very Poor
+2020-01-06,340.0,True,Very Poor,337.36,Very Poor
+2020-01-07,298.0,True,Poor,310.704,Very Poor
+2020-01-08,314.0,True,Very Poor,315.146,Very Poor
+2020-01-09,307.5,False,Very Poor,249.402,Poor
+2020-01-10,301.0,True,Very Poor,302.468,Very Poor
+2020-01-11,306.0,True,Very Poor,311.226,Very Poor
+2020-01-12,369.0,True,Very Poor,379.878,Very Poor
+2020-01-13,393.0,True,Very Poor,394.456,Very Poor
+2020-01-14,355.0,True,Very Poor,335.632,Very Poor
+2020-01-15,246.0,True,Poor,252.714,Poor
+2020-01-16,315.0,True,Very Poor,319.352,Very Poor
+2020-01-17,269.0,True,Poor,259.756,Poor
+2020-01-18,301.0,False,Very Poor,336.672,Very Poor
+2020-01-19,333.0,True,Very Poor,322.28,Very Poor
+2020-01-20,319.0,True,Very Poor,324.22,Very Poor
+2020-01-21,392.0,True,Very Poor,389.596,Very Poor
+2020-01-22,398.0,True,Very Poor,386.598,Very Poor
+2020-01-23,226.0,True,Poor,196.282,Moderate
+2020-01-24,275.3333333333333,False,Poor,208.718,Poor
+2020-01-25,324.6666666666667,False,Very Poor,313.032,Very Poor
+2020-01-26,374.0,True,Very Poor,390.604,Very Poor
+2020-01-27,383.0,True,Very Poor,382.122,Very Poor
+2020-01-28,264.0,True,Poor,251.01,Poor
+2020-01-29,206.0,True,Poor,191.614,Moderate
+2020-01-30,178.0,True,Moderate,176.776,Moderate
+2020-01-31,197.0,True,Moderate,201.972,Poor
+2020-02-01,243.0,True,Poor,249.086,Poor
+2020-02-02,255.0,True,Poor,254.936,Poor
+2020-02-03,292.0,True,Poor,302.342,Very Poor
+2020-02-04,344.0,True,Very Poor,341.998,Very Poor
+2020-02-05,297.0,False,Poor,269.422,Poor
+2020-02-06,250.0,True,Poor,252.324,Poor
+2020-02-07,326.0,True,Very Poor,325.87,Very Poor
+2020-02-08,291.0,True,Poor,288.32,Poor
+2020-02-09,286.0,True,Poor,291.732,Poor
+2020-02-10,317.0,True,Very Poor,326.474,Very Poor
+2020-02-11,349.0,True,Very Poor,344.3,Very Poor
+2020-02-12,331.0,True,Very Poor,336.596,Very Poor
+2020-02-13,258.0,True,Poor,245.88,Poor
+2020-02-14,177.0,True,Moderate,189.09,Moderate
+2020-02-15,221.0,False,Poor,209.46,Poor
+2020-02-16,265.0,True,Poor,266.254,Poor
+2020-02-17,337.0,True,Very Poor,340.158,Very Poor
+2020-02-18,274.0,True,Poor,270.846,Poor
+2020-02-19,339.0,True,Very Poor,334.442,Very Poor
+2020-02-20,232.0,True,Poor,229.11,Poor
+2020-02-21,165.0,True,Moderate,143.542,Moderate
+2020-02-22,104.0,True,Moderate,125.596,Moderate
+2020-02-23,252.0,True,Poor,251.38,Poor
+2020-02-24,144.0,True,Moderate,138.772,Moderate
+2020-02-25,196.5,False,Moderate,214.856,Poor
+2020-02-26,249.0,True,Poor,251.252,Poor
+2020-02-27,225.0,True,Poor,219.612,Poor
+2020-02-28,168.0,True,Moderate,163.256,Moderate
+2020-02-29,124.0,False,Moderate,116.316,Moderate
+2020-03-01,80.0,True,Satisfactory,104.612,Moderate
+2020-03-02,275.0,True,Poor,276.506,Poor
+2020-03-03,244.0,True,Poor,236.55,Poor
+2020-03-04,201.0,True,Poor,201.426,Poor
+2020-03-05,144.5,False,Moderate,96.19,Satisfactory
+2020-03-06,88.0,True,Satisfactory,85.168,Satisfactory
+2020-03-07,76.0,True,Satisfactory,86.572,Satisfactory
+2020-03-08,220.0,True,Poor,217.56,Poor
+2020-03-09,142.0,True,Moderate,145.312,Moderate
+2020-03-10,139.33333333333334,False,Moderate,331.93,Very Poor
+2020-03-11,136.66666666666666,False,Moderate,125.828,Moderate
+2020-03-12,134.0,True,Moderate,144.22,Moderate
+2020-03-13,198.0,True,Moderate,189.536,Moderate
+2020-03-14,96.0,True,Satisfactory,97.076,Satisfactory
+2020-03-15,140.0,True,Moderate,134.61,Moderate
+2020-03-16,175.0,False,Moderate,187.948,Moderate
+2020-03-17,210.0,True,Poor,198.702,Moderate
+2020-03-18,227.0,False,Poor,205.332,Poor
+2020-03-19,244.0,True,Poor,244.554,Poor
+2020-03-20,240.66666666666666,False,Poor,264.546,Poor
+2020-03-21,237.33333333333334,False,Poor,219.874,Poor
+2020-03-22,234.0,True,Poor,215.136,Poor
+2020-03-23,154.0,True,Moderate,151.544,Moderate
+2020-03-24,190.0,True,Moderate,205.3,Poor
+2020-03-25,148.0,False,Moderate,113.362,Moderate
+2020-03-26,106.0,False,Moderate,97.786,Satisfactory
+2020-03-27,64.0,True,Satisfactory,63.884,Satisfactory
+2020-03-28,49.0,True,Good,61.34,Satisfactory
+2020-03-29,58.0,True,Satisfactory,65.806,Satisfactory
+2020-03-30,71.0,True,Satisfactory,83.848,Satisfactory
+2020-03-31,79.0,True,Satisfactory,92.194,Satisfactory
+2020-04-01,77.0,True,Satisfactory,81.066,Satisfactory
+2020-04-02,70.0,True,Satisfactory,81.148,Satisfactory
+2020-04-03,86.0,True,Satisfactory,85.114,Satisfactory
+2020-04-04,92.5,False,Satisfactory,95.282,Satisfactory
+2020-04-05,99.0,True,Satisfactory,112.738,Moderate
+2020-04-06,145.0,True,Moderate,148.082,Moderate
+2020-04-07,147.14285714285714,False,Moderate,85.938,Satisfactory
+2020-04-08,149.28571428571428,False,Moderate,105.798,Moderate
+2020-04-09,151.42857142857142,False,Moderate,109.454,Moderate
+2020-04-10,153.57142857142858,False,Moderate,111.01,Moderate
+2020-04-11,155.71428571428572,False,Moderate,122.74,Moderate
+2020-04-12,157.85714285714286,False,Moderate,116.79,Moderate
+2020-04-13,160.0,False,Moderate,119.314,Moderate
+2020-04-14,162.14285714285714,False,Moderate,121.558,Moderate
+2020-04-15,164.28571428571428,False,Moderate,124.282,Moderate
+2020-04-16,166.42857142857142,False,Moderate,127.542,Moderate
+2020-04-17,168.57142857142856,False,Moderate,133.55,Moderate
+2020-04-18,170.71428571428572,False,Moderate,135.56,Moderate
+2020-04-19,172.85714285714286,False,Moderate,135.72,Moderate
+2020-04-20,175.0,True,Moderate,165.154,Moderate
+2020-04-21,84.0,True,Satisfactory,117.27,Moderate
+2020-04-22,160.0,True,Moderate,161.79,Moderate
+2020-04-23,118.0,True,Moderate,132.264,Moderate
+2020-04-24,114.0,True,Moderate,133.56,Moderate
+2020-04-25,164.0,True,Moderate,144.17,Moderate
+2020-04-26,119.0,True,Moderate,123.122,Moderate
+2020-04-27,150.0,True,Moderate,140.028,Moderate
+2020-04-28,91.0,True,Satisfactory,102.012,Moderate
+2020-04-29,95.88888888888889,False,Satisfactory,133.612,Moderate
+2020-04-30,100.77777777777777,False,Moderate,118.4,Moderate
+2020-05-01,105.66666666666667,False,Moderate,117.864,Moderate
+2020-05-02,110.55555555555556,False,Moderate,115.426,Moderate
+2020-05-03,115.44444444444444,False,Moderate,112.776,Moderate
+2020-05-04,120.33333333333334,False,Moderate,116.57,Moderate
+2020-05-05,125.22222222222223,False,Moderate,120.226,Moderate
+2020-05-06,130.11111111111111,False,Moderate,130.426,Moderate
+2020-05-07,135.0,False,Moderate,136.884,Moderate
+2020-05-08,139.88888888888889,False,Moderate,141.856,Moderate
+2020-05-09,144.77777777777777,False,Moderate,153.22,Moderate
+2020-05-10,149.66666666666669,False,Moderate,154.864,Moderate
+2020-05-11,154.55555555555554,False,Moderate,154.252,Moderate
+2020-05-12,159.44444444444446,False,Moderate,162.786,Moderate
+2020-05-13,164.33333333333334,False,Moderate,167.718,Moderate
+2020-05-14,169.22222222222223,False,Moderate,167.836,Moderate
+2020-05-15,174.11111111111111,False,Moderate,168.952,Moderate
+2020-05-16,179.0,True,Moderate,174.032,Moderate
+2020-05-17,199.0,True,Moderate,202.716,Poor
+2020-05-18,268.0,True,Poor,242.85,Poor
+2020-05-19,259.0,True,Poor,253.06,Poor
+2020-05-20,208.0,True,Poor,181.92,Moderate
+2020-05-21,205.75,False,Poor,196.01,Moderate
+2020-05-22,203.5,False,Poor,274.356,Poor
+2020-05-23,201.25,False,Poor,243.196,Poor
+2020-05-24,199.0,True,Moderate,205.176,Poor
+2020-05-25,174.0,True,Moderate,169.342,Moderate
+2020-05-26,133.0,True,Moderate,141.36,Moderate
+2020-05-27,176.0,True,Moderate,177.846,Moderate
+2020-05-28,160.0,True,Moderate,159.89,Moderate
+2020-05-29,122.0,True,Moderate,117.826,Moderate
+2020-05-30,152.0,True,Moderate,132.358,Moderate
+2020-05-31,201.0,False,Poor,105.714,Moderate
+2020-06-01,250.0,True,Poor,202.67,Poor
+2020-06-02,228.0,True,Poor,212.724,Poor
+2020-06-03,158.0,True,Moderate,162.146,Moderate
+2020-06-04,207.0,True,Poor,209.104,Poor
+2020-06-05,220.0,True,Poor,197.316,Moderate
+2020-06-06,225.0,True,Poor,169.942,Moderate
+2020-06-07,157.0,True,Moderate,150.94,Moderate
+2020-06-08,157.0,True,Moderate,162.46,Moderate
+2020-06-09,170.0,True,Moderate,178.492,Moderate
+2020-06-10,207.0,True,Poor,207.998,Poor
+2020-06-11,218.0,False,Poor,161.124,Moderate
+2020-06-12,229.0,True,Poor,223.136,Poor
+2020-06-13,170.0,True,Moderate,165.84,Moderate
+2020-06-14,243.0,True,Poor,245.992,Poor
+2020-06-15,133.0,True,Moderate,138.252,Moderate
+2020-06-16,134.0,True,Moderate,133.126,Moderate
+2020-06-17,165.0,True,Moderate,137.412,Moderate
+2020-06-18,90.0,True,Satisfactory,92.202,Satisfactory
+2020-06-19,125.0,True,Moderate,144.148,Moderate
+2020-06-20,157.0,True,Moderate,148.266,Moderate
+2020-06-21,112.0,True,Moderate,131.286,Moderate
+2020-06-22,106.0,True,Moderate,108.77,Moderate
+2020-06-23,90.0,True,Satisfactory,93.31,Satisfactory
+2020-06-24,108.0,False,Moderate,107.972,Moderate
+2020-06-25,126.0,True,Moderate,129.188,Moderate
+2020-06-26,132.0,True,Moderate,143.226,Moderate
+2020-06-27,113.0,True,Moderate,119.14,Moderate
+2020-06-28,181.0,True,Moderate,194.976,Moderate
+2020-06-29,187.0,True,Moderate,170.334,Moderate
+2020-06-30,205.5,False,Poor,110.382,Moderate
+2020-07-01,224.0,True,Poor,188.858,Moderate
+2020-07-02,164.0,True,Moderate,161.654,Moderate
+2020-07-03,168.0,True,Moderate,165.808,Moderate
+2020-07-04,90.0,True,Satisfactory,99.138,Satisfactory
+2020-07-05,173.0,True,Moderate,134.76,Moderate
+2020-07-06,126.0,True,Moderate,121.678,Moderate
+2020-07-07,52.0,True,Satisfactory,52.99,Satisfactory
+2020-07-08,64.0,True,Satisfactory,70.728,Satisfactory
+2020-07-09,94.0,True,Satisfactory,92.044,Satisfactory
+2020-07-10,56.0,True,Satisfactory,58.944,Satisfactory
+2020-07-11,59.0,True,Satisfactory,57.142,Satisfactory
+2020-07-12,83.33333333333333,False,Satisfactory,79.58,Satisfactory
+2020-07-13,107.66666666666666,False,Moderate,92.51,Satisfactory
+2020-07-14,132.0,True,Moderate,124.846,Moderate
+2020-07-15,97.0,True,Satisfactory,97.062,Satisfactory
+2020-07-16,70.0,True,Satisfactory,70.566,Satisfactory
+2020-07-17,109.0,True,Moderate,107.814,Moderate
+2020-07-18,81.0,True,Satisfactory,80.276,Satisfactory
+2020-07-19,78.0,True,Satisfactory,82.014,Satisfactory
+2020-07-20,98.0,True,Satisfactory,94.87,Satisfactory
+2020-07-21,59.0,True,Satisfactory,70.298,Satisfactory
+2020-07-22,49.0,True,Good,57.612,Satisfactory
+2020-07-23,82.0,True,Satisfactory,88.064,Satisfactory
+2020-07-24,100.0,True,Satisfactory,100.246,Moderate
+2020-07-25,72.0,True,Satisfactory,71.61,Satisfactory
+2020-07-26,94.0,True,Satisfactory,93.738,Satisfactory
+2020-07-27,133.0,True,Moderate,122.618,Moderate
+2020-07-28,57.0,True,Satisfactory,61.048,Satisfactory
+2020-07-29,69.0,True,Satisfactory,73.456,Satisfactory
+2020-07-30,66.0,True,Satisfactory,68.82,Satisfactory
+2020-07-31,94.0,True,Satisfactory,96.336,Satisfactory
+2020-08-01,111.0,True,Moderate,109.336,Moderate
+2020-08-02,88.0,True,Satisfactory,87.98,Satisfactory
+2020-08-03,65.0,True,Satisfactory,66.866,Satisfactory
+2020-08-04,58.0,True,Satisfactory,66.726,Satisfactory
+2020-08-05,121.0,True,Moderate,119.324,Moderate
+2020-08-06,63.0,True,Satisfactory,62.838,Satisfactory
+2020-08-07,72.0,True,Satisfactory,75.99,Satisfactory
+2020-08-08,106.0,True,Moderate,105.468,Moderate
+2020-08-09,117.0,True,Moderate,109.592,Moderate
+2020-08-10,67.0,True,Satisfactory,67.112,Satisfactory
+2020-08-11,92.0,True,Satisfactory,93.948,Satisfactory
+2020-08-12,108.0,True,Moderate,91.54,Satisfactory
+2020-08-13,92.0,True,Satisfactory,89.832,Satisfactory
+2020-08-14,74.0,True,Satisfactory,75.722,Satisfactory
+2020-08-15,63.0,True,Satisfactory,69.956,Satisfactory
+2020-08-16,76.0,True,Satisfactory,77.006,Satisfactory
+2020-08-17,107.0,True,Moderate,103.928,Moderate
+2020-08-18,105.0,True,Moderate,102.934,Moderate
+2020-08-19,120.0,True,Moderate,107.686,Moderate
+2020-08-20,86.0,True,Satisfactory,88.178,Satisfactory
+2020-08-21,100.0,True,Satisfactory,92.828,Satisfactory
+2020-08-22,76.0,False,Satisfactory,81.296,Satisfactory
+2020-08-23,52.0,True,Satisfactory,55.2,Satisfactory
+2020-08-24,29.0,True,Good,42.454,Good
+2020-08-25,86.0,True,Satisfactory,82.666,Satisfactory
+2020-08-26,79.0,True,Satisfactory,87.5,Satisfactory
+2020-08-27,95.0,True,Satisfactory,92.316,Satisfactory
+2020-08-28,68.0,True,Satisfactory,74.518,Satisfactory
+2020-08-29,98.0,True,Satisfactory,95.524,Satisfactory
+2020-08-30,62.0,True,Satisfactory,65.794,Satisfactory
+2020-08-31,108.0,True,Moderate,97.878,Satisfactory
+2020-09-01,67.0,True,Satisfactory,64.912,Satisfactory
+2020-09-02,98.0,True,Satisfactory,98.24,Satisfactory
+2020-09-03,65.0,True,Satisfactory,69.336,Satisfactory
+2020-09-04,88.0,True,Satisfactory,94.898,Satisfactory
+2020-09-05,92.0,True,Satisfactory,94.002,Satisfactory
+2020-09-06,105.0,True,Moderate,103.218,Moderate
+2020-09-07,129.0,True,Moderate,142.896,Moderate
+2020-09-08,69.0,True,Satisfactory,72.254,Satisfactory
+2020-09-09,115.0,True,Moderate,111.672,Moderate
+2020-09-10,95.0,True,Satisfactory,99.282,Satisfactory
+2020-09-11,99.0,True,Satisfactory,108.942,Moderate
+2020-09-12,118.0,True,Moderate,122.478,Moderate
+2020-09-13,118.0,True,Moderate,126.712,Moderate
+2020-09-14,176.0,True,Moderate,182.486,Moderate
+2020-09-15,160.0,True,Moderate,160.766,Moderate
+2020-09-16,167.0,True,Moderate,169.228,Moderate
+2020-09-17,142.0,True,Moderate,139.244,Moderate
+2020-09-18,129.0,True,Moderate,122.624,Moderate
+2020-09-19,142.5,False,Moderate,126.448,Moderate
+2020-09-20,156.0,True,Moderate,161.006,Moderate
+2020-09-21,143.0,True,Moderate,149.432,Moderate
+2020-09-22,119.0,True,Moderate,117.648,Moderate
+2020-09-23,115.0,True,Moderate,107.304,Moderate
+2020-09-24,99.0,True,Satisfactory,98.448,Satisfactory
+2020-09-25,124.0,True,Moderate,128.162,Moderate
+2020-09-26,189.0,True,Moderate,183.798,Moderate
+2020-09-27,131.0,True,Moderate,130.942,Moderate
+2020-09-28,184.0,True,Moderate,184.28,Moderate
+2020-09-29,192.0,True,Moderate,187.376,Moderate
+2020-09-30,169.0,True,Moderate,175.23,Moderate
+2020-10-01,162.0,True,Moderate,161.588,Moderate
+2020-10-02,178.0,True,Moderate,180.628,Moderate
+2020-10-03,190.0,True,Moderate,183.174,Moderate
+2020-10-04,194.0,True,Moderate,191.362,Moderate
+2020-10-05,178.0,True,Moderate,178.104,Moderate
+2020-10-06,191.0,True,Moderate,192.448,Moderate
+2020-10-07,260.0,True,Poor,262.312,Poor
+2020-10-08,206.0,True,Poor,206.274,Poor
+2020-10-09,219.0,True,Poor,220.278,Poor
+2020-10-10,214.0,True,Poor,214.044,Poor
+2020-10-11,221.0,True,Poor,227.298,Poor
+2020-10-12,300.0,True,Poor,312.962,Very Poor
+2020-10-13,295.0,True,Poor,285.628,Poor
+2020-10-14,281.0,True,Poor,279.22,Poor
+2020-10-15,314.0,True,Very Poor,315.146,Very Poor
+2020-10-16,240.0,True,Poor,247.71,Poor
+2020-10-17,314.0,True,Very Poor,312.854,Very Poor
+2020-10-18,263.0,True,Poor,258.12,Poor
+2020-10-19,267.0,True,Poor,267.578,Poor
+2020-10-20,239.0,True,Poor,242.62,Poor
+2020-10-21,289.0,True,Poor,291.358,Poor
+2020-10-22,344.0,True,Very Poor,344.04,Very Poor
+2020-10-23,377.0,True,Very Poor,387.49,Very Poor
+2020-10-24,404.0,True,Severe,400.074,Severe
+2020-10-25,401.0,True,Severe,412.174,Severe
+2020-10-26,414.0,True,Severe,406.176,Severe
+2020-10-27,338.0,True,Very Poor,336.468,Very Poor
+2020-10-28,324.0,True,Very Poor,335.678,Very Poor
+2020-10-29,428.0,True,Severe,429.524,Severe
+2020-10-30,440.0,True,Severe,431.596,Severe
+2020-10-31,416.0,True,Severe,413.736,Severe
+2020-11-01,389.0,True,Very Poor,400.826,Severe
+2020-11-02,333.0,True,Very Poor,333.52,Very Poor
+2020-11-03,338.0,True,Very Poor,332.49,Very Poor
+2020-11-04,380.0,True,Very Poor,404.0,Severe
+2020-11-05,468.0,True,Severe,451.42,Severe
+2020-11-06,436.0,True,Severe,430.918,Severe
+2020-11-07,436.0,True,Severe,437.468,Severe
+2020-11-08,454.0,True,Severe,458.9,Severe
+2020-11-09,485.0,True,Severe,474.27,Severe
+2020-11-10,464.0,True,Severe,453.766,Severe
+2020-11-11,378.0,True,Very Poor,389.072,Very Poor
+2020-11-12,378.0,True,Very Poor,374.214,Very Poor
+2020-11-13,402.0,True,Severe,407.956,Severe
+2020-11-14,451.0,True,Severe,452.83,Severe
+2020-11-15,456.0,True,Severe,435.76,Severe
+2020-11-16,236.0,True,Poor,226.394,Poor
+2020-11-17,181.0,True,Moderate,188.21,Moderate
+2020-11-18,234.0,True,Poor,236.634,Poor
+2020-11-19,330.0,True,Very Poor,338.154,Very Poor
+2020-11-20,316.0,True,Very Poor,313.612,Very Poor
+2020-11-21,247.0,True,Poor,243.476,Poor
+2020-11-22,290.0,True,Poor,292.622,Poor
+2020-11-23,320.0,True,Very Poor,336.374,Very Poor
+2020-11-24,431.0,True,Severe,432.534,Severe
+2020-11-25,448.0,True,Severe,439.018,Severe
+2020-11-26,315.0,True,Very Poor,295.986,Poor
+2020-11-27,133.0,True,Moderate,143.826,Moderate
+2020-11-28,262.0,True,Poor,260.252,Poor
+2020-11-29,293.0,True,Poor,299.986,Poor
+2020-11-30,363.0,True,Very Poor,355.8,Very Poor
+2020-12-01,417.0,True,Severe,418.974,Severe
+2020-12-02,397.0,True,Very Poor,383.296,Very Poor
+2020-12-03,375.0,True,Very Poor,369.404,Very Poor
+2020-12-04,431.0,True,Severe,428.38,Severe
+2020-12-05,425.0,True,Severe,423.11,Severe
+2020-12-06,410.0,True,Severe,406.074,Severe
+2020-12-07,441.0,True,Severe,436.35,Severe
+2020-12-08,402.0,True,Severe,392.968,Very Poor
+2020-12-09,408.0,True,Severe,402.942,Severe
+2020-12-10,330.0,True,Very Poor,327.706,Very Poor
+2020-12-11,345.0,True,Very Poor,341.406,Very Poor
+2020-12-12,391.0,True,Very Poor,371.928,Very Poor
+2020-12-13,330.0,True,Very Poor,305.936,Very Poor
+2020-12-14,230.0,True,Poor,245.14,Poor
+2020-12-15,280.0,True,Poor,292.738,Poor
+2020-12-16,318.0,True,Very Poor,310.664,Very Poor
+2020-12-17,291.0,True,Poor,296.922,Poor
+2020-12-18,306.0,True,Very Poor,304.006,Very Poor
+2020-12-19,301.0,True,Very Poor,307.062,Very Poor
+2020-12-20,340.0,True,Very Poor,357.41,Very Poor
+2020-12-21,396.0,True,Very Poor,395.302,Very Poor
+2020-12-22,456.0,True,Severe,453.448,Severe
+2020-12-23,472.0,True,Severe,458.428,Severe
+2020-12-24,453.0,True,Severe,442.908,Severe
+2020-12-25,395.0,True,Very Poor,380.888,Very Poor
+2020-12-26,371.0,True,Very Poor,380.04,Very Poor
+2020-12-27,421.0,True,Severe,414.192,Severe
+2020-12-28,262.0,True,Poor,241.694,Poor
+2020-12-29,282.0,True,Poor,290.074,Poor
+2020-12-30,329.0,True,Very Poor,331.22,Very Poor
+2020-12-31,390.0,True,Very Poor,400.568,Severe
+2021-01-01,382.3333333333333,False,Very Poor,441.68,Severe
+2021-01-02,374.6666666666667,False,Very Poor,430.098,Severe
+2021-01-03,367.0,True,Very Poor,348.116,Very Poor
+2021-01-04,193.0,True,Moderate,217.068,Poor
+2021-01-05,178.0,True,Moderate,197.78,Moderate
+2021-01-06,272.0,True,Poor,284.86,Poor
+2021-01-07,300.0,True,Poor,289.638,Poor
+2021-01-08,338.0,True,Very Poor,345.272,Very Poor
+2021-01-09,359.0,True,Very Poor,339.764,Very Poor
+2021-01-10,309.0,True,Very Poor,304.926,Very Poor
+2021-01-11,283.0,True,Poor,285.938,Poor
+2021-01-12,330.0,True,Very Poor,330.826,Very Poor
+2021-01-13,395.5,False,Very Poor,425.552,Severe
+2021-01-14,461.0,True,Severe,458.944,Severe
+2021-01-15,450.5,False,Severe,460.124,Severe
+2021-01-16,440.0,True,Severe,435.248,Severe
+2021-01-17,392.0,True,Very Poor,381.504,Very Poor
+2021-01-18,385.0,True,Very Poor,385.678,Very Poor
+2021-01-19,436.0,True,Severe,425.712,Severe
+2021-01-20,338.0,True,Very Poor,322.758,Very Poor
+2021-01-21,330.0,True,Very Poor,325.188,Very Poor
+2021-01-22,377.0,True,Very Poor,388.648,Very Poor
+2021-01-23,343.0,True,Very Poor,339.216,Very Poor
+2021-01-24,399.0,True,Very Poor,401.614,Severe
+2021-01-25,354.0,True,Very Poor,342.63,Very Poor
+2021-01-26,381.0,True,Very Poor,372.636,Very Poor
+2021-01-27,342.0,True,Very Poor,339.888,Very Poor
+2021-01-28,394.0,True,Very Poor,407.83,Severe
+2021-01-29,422.0,True,Severe,414.752,Severe
+2021-01-30,331.0,True,Very Poor,332.322,Very Poor
+2021-01-31,374.0,False,Very Poor,389.384,Very Poor
+2021-02-01,417.0,True,Severe,415.344,Severe
+2021-02-02,412.0,True,Severe,412.42,Severe
+2021-02-03,376.0,True,Very Poor,364.564,Very Poor
+2021-02-04,344.0,True,Very Poor,335.268,Very Poor
+2021-02-05,263.0,False,Poor,143.25,Moderate
+2021-02-06,182.0,True,Moderate,192.93,Moderate
+2021-02-07,245.0,True,Poor,264.426,Poor
+2021-02-08,335.0,True,Very Poor,338.16,Very Poor
+2021-02-09,336.5,False,Very Poor,357.12,Very Poor
+2021-02-10,338.0,True,Very Poor,349.912,Very Poor
+2021-02-11,369.0,True,Very Poor,353.248,Very Poor
+2021-02-12,355.0,True,Very Poor,370.282,Very Poor
+2021-02-13,419.0,True,Severe,416.372,Severe
+2021-02-14,415.0,True,Severe,402.008,Severe
+2021-02-15,355.0,True,Very Poor,352.628,Very Poor
+2021-02-16,354.0,True,Very Poor,351.722,Very Poor
+2021-02-17,342.0,True,Very Poor,341.732,Very Poor
+2021-02-18,322.0,True,Very Poor,325.562,Very Poor
+2021-02-19,350.0,True,Very Poor,348.426,Very Poor
+2021-02-20,326.0,True,Very Poor,313.488,Very Poor
+2021-02-21,323.0,True,Very Poor,326.81,Very Poor
+2021-02-22,322.0,True,Very Poor,313.894,Very Poor
+2021-02-23,278.0,True,Poor,284.724,Poor
+2021-02-24,334.0,True,Very Poor,350.886,Very Poor
+2021-02-25,351.0,True,Very Poor,337.42,Very Poor
+2021-02-26,242.0,True,Poor,257.462,Poor
+2021-02-27,260.0,True,Poor,246.396,Poor
+2021-02-28,228.0,True,Poor,221.904,Poor
+2021-03-01,170.0,True,Moderate,175.338,Moderate
+2021-03-02,141.0,True,Moderate,169.394,Moderate
+2021-03-03,246.0,False,Poor,230.208,Poor
+2021-03-04,351.0,True,Very Poor,352.686,Very Poor
+2021-03-05,285.0,True,Poor,276.57,Poor
+2021-03-06,195.0,True,Moderate,204.376,Poor
+2021-03-07,298.0,True,Poor,299.666,Poor
+2021-03-08,211.0,True,Poor,225.11,Poor
+2021-03-09,306.0,True,Very Poor,302.416,Very Poor
+2021-03-10,198.0,True,Moderate,199.64,Moderate
+2021-03-11,214.0,False,Poor,295.714,Poor
+2021-03-12,230.0,True,Poor,222.358,Poor
+2021-03-13,246.0,True,Poor,247.142,Poor
+2021-03-14,193.0,True,Moderate,198.206,Moderate
+2021-03-15,198.0,True,Moderate,205.47,Poor
+2021-03-16,246.0,True,Poor,251.744,Poor
+2021-03-17,319.0,True,Very Poor,307.78,Very Poor
+2021-03-18,318.0,True,Very Poor,317.052,Very Poor
+2021-03-19,277.0,True,Poor,263.126,Poor
+2021-03-20,253.0,True,Poor,253.55,Poor
+2021-03-21,264.0,True,Poor,259.428,Poor
+2021-03-22,216.0,True,Poor,221.694,Poor
+2021-03-23,269.0,True,Poor,260.804,Poor
+2021-03-24,208.0,True,Poor,207.988,Poor
+2021-03-25,153.0,True,Moderate,146.072,Moderate
+2021-03-26,136.0,True,Moderate,141.128,Moderate
+2021-03-27,221.0,True,Poor,230.184,Poor
+2021-03-28,284.0,True,Poor,292.354,Poor
+2021-03-29,262.75,False,Poor,179.994,Moderate
+2021-03-30,241.5,False,Poor,273.254,Poor
+2021-03-31,220.25,False,Poor,188.416,Moderate
+2021-04-01,199.0,True,Moderate,197.844,Moderate
+2021-04-02,182.0,True,Moderate,168.028,Moderate
+2021-04-03,160.0,True,Moderate,162.88,Moderate
+2021-04-04,151.0,True,Moderate,152.262,Moderate
+2021-04-05,256.0,True,Poor,255.034,Poor
+2021-04-06,290.0,True,Poor,281.014,Poor
+2021-04-07,243.0,True,Poor,229.2,Poor
+2021-04-08,142.0,True,Moderate,142.888,Moderate
+2021-04-09,146.0,True,Moderate,154.314,Moderate
+2021-04-10,206.0,False,Poor,214.352,Poor
+2021-04-11,266.0,True,Poor,240.994,Poor
+2021-04-12,267.0,True,Poor,262.458,Poor
+2021-04-13,229.0,True,Poor,229.04,Poor
+2021-04-14,176.0,True,Moderate,170.788,Moderate
+2021-04-15,213.0,True,Poor,212.392,Poor
+2021-04-16,180.0,False,Moderate,242.572,Poor
+2021-04-17,147.0,True,Moderate,143.446,Moderate
+2021-04-18,155.0,True,Moderate,158.584,Moderate
+2021-04-19,176.5,False,Moderate,163.652,Moderate
+2021-04-20,198.0,True,Moderate,205.982,Poor
+2021-04-21,129.0,True,Moderate,136.576,Moderate
+2021-04-22,119.0,True,Moderate,129.352,Moderate
+2021-04-23,111.0,True,Moderate,114.422,Moderate
+2021-04-24,90.0,True,Satisfactory,92.484,Satisfactory
+2021-04-25,187.0,True,Moderate,195.33,Moderate
+2021-04-26,277.0,True,Poor,296.332,Poor
+2021-04-27,309.0,True,Very Poor,319.394,Very Poor
+2021-04-28,327.0,False,Very Poor,363.906,Very Poor
+2021-04-29,345.0,True,Very Poor,327.298,Very Poor
+2021-04-30,245.0,True,Poor,247.316,Poor
+2021-05-01,225.0,True,Poor,224.098,Poor
+2021-05-02,171.0,True,Moderate,178.506,Moderate
+2021-05-03,275.0,True,Poor,277.788,Poor
+2021-05-04,250.0,True,Poor,221.304,Poor
+2021-05-05,144.0,True,Moderate,151.39,Moderate
+2021-05-06,147.0,True,Moderate,147.882,Moderate
+2021-05-07,138.25,False,Moderate,143.908,Moderate
+2021-05-08,129.5,False,Moderate,136.964,Moderate
+2021-05-09,120.75,False,Moderate,130.844,Moderate
+2021-05-10,112.0,True,Moderate,119.69,Moderate
+2021-05-11,110.5,False,Moderate,129.918,Moderate
+2021-05-12,109.0,True,Moderate,107.694,Moderate
+2021-05-13,107.0,False,Moderate,116.08,Moderate
+2021-05-14,105.0,True,Moderate,105.342,Moderate
+2021-05-15,136.0,True,Moderate,136.13,Moderate
+2021-05-16,203.0,True,Poor,201.664,Poor
+2021-05-17,217.0,True,Poor,213.704,Poor
+2021-05-18,87.0,True,Satisfactory,85.184,Satisfactory
+2021-05-19,78.0,True,Satisfactory,83.732,Satisfactory
+2021-05-20,60.0,True,Satisfactory,75.88,Satisfactory
+2021-05-21,79.0,True,Satisfactory,83.174,Satisfactory
+2021-05-22,76.0,True,Satisfactory,86.248,Satisfactory
+2021-05-23,267.0,True,Poor,323.262,Very Poor
+2021-05-24,178.0,True,Moderate,169.348,Moderate
+2021-05-25,177.0,False,Moderate,107.59,Moderate
+2021-05-26,176.0,False,Moderate,150.69,Moderate
+2021-05-27,175.0,True,Moderate,160.206,Moderate
+2021-05-28,130.5,False,Moderate,110.786,Moderate
+2021-05-29,86.0,True,Satisfactory,91.016,Satisfactory
+2021-05-30,102.0,True,Moderate,103.772,Moderate
+2021-05-31,145.0,True,Moderate,153.242,Moderate
+2021-06-01,152.0,True,Moderate,154.862,Moderate
+2021-06-02,198.0,True,Moderate,182.386,Moderate
+2021-06-03,193.0,True,Moderate,215.032,Poor
+2021-06-04,190.0,False,Moderate,226.444,Poor
+2021-06-05,187.0,False,Moderate,147.346,Moderate
+2021-06-06,184.0,False,Moderate,206.06,Poor
+2021-06-07,181.0,True,Moderate,190.268,Moderate
+2021-06-08,227.0,True,Poor,255.954,Poor
+2021-06-09,306.0,True,Very Poor,310.97,Very Poor
+2021-06-10,234.0,True,Poor,224.224,Poor
+2021-06-11,189.0,False,Moderate,226.354,Poor
+2021-06-12,144.0,True,Moderate,137.602,Moderate
+2021-06-13,96.0,True,Satisfactory,100.432,Moderate
+2021-06-14,116.0,True,Moderate,116.782,Moderate
+2021-06-15,103.0,True,Moderate,114.854,Moderate
+2021-06-16,119.0,True,Moderate,107.902,Moderate
+2021-06-17,111.0,True,Moderate,117.544,Moderate
+2021-06-18,113.4,False,Moderate,118.506,Moderate
+2021-06-19,115.8,False,Moderate,90.418,Satisfactory
+2021-06-20,118.2,False,Moderate,108.434,Moderate
+2021-06-21,120.6,False,Moderate,116.092,Moderate
+2021-06-22,123.0,True,Moderate,131.436,Moderate
+2021-06-23,204.0,True,Poor,213.728,Poor
+2021-06-24,134.0,True,Moderate,135.546,Moderate
+2021-06-25,198.0,True,Moderate,206.98,Poor
+2021-06-26,162.0,True,Moderate,169.762,Moderate
+2021-06-27,243.0,True,Poor,239.026,Poor
+2021-06-28,205.0,True,Poor,206.818,Poor
+2021-06-29,290.0,True,Poor,277.686,Poor
+2021-06-30,249.0,True,Poor,260.57,Poor
+2021-07-01,326.0,True,Very Poor,288.422,Poor
+2021-07-02,294.0,True,Poor,284.25,Poor
+2021-07-03,183.0,True,Moderate,171.476,Moderate
+2021-07-04,240.0,True,Poor,253.874,Poor
+2021-07-05,261.0,True,Poor,257.862,Poor
+2021-07-06,221.0,True,Poor,217.236,Poor
+2021-07-07,237.0,True,Poor,223.242,Poor
+2021-07-08,209.0,True,Poor,225.204,Poor
+2021-07-09,156.0,True,Moderate,142.156,Moderate
+2021-07-10,116.0,True,Moderate,117.452,Moderate
+2021-07-11,116.0,True,Moderate,123.308,Moderate
+2021-07-12,110.0,True,Moderate,111.448,Moderate
+2021-07-13,118.5,False,Moderate,205.904,Poor
+2021-07-14,127.0,True,Moderate,115.34,Moderate
+2021-07-15,142.0,True,Moderate,146.518,Moderate
+2021-07-16,119.0,True,Moderate,125.672,Moderate
+2021-07-17,129.0,True,Moderate,141.174,Moderate
+2021-07-18,130.0,True,Moderate,132.308,Moderate
+2021-07-19,96.0,True,Satisfactory,94.566,Satisfactory
+2021-07-20,100.0,True,Satisfactory,100.858,Moderate
+2021-07-21,100.0,True,Satisfactory,112.288,Moderate
+2021-07-22,132.0,True,Moderate,129.378,Moderate
+2021-07-23,88.0,True,Satisfactory,93.524,Satisfactory
+2021-07-24,129.0,True,Moderate,136.744,Moderate
+2021-07-25,137.0,True,Moderate,134.072,Moderate
+2021-07-26,106.0,True,Moderate,116.222,Moderate
+2021-07-27,106.0,False,Moderate,98.088,Satisfactory
+2021-07-28,106.0,True,Moderate,104.27,Moderate
+2021-07-29,101.0,True,Moderate,103.232,Moderate
+2021-07-30,89.0,True,Satisfactory,90.468,Satisfactory
+2021-07-31,102.75,False,Moderate,93.516,Satisfactory
+2021-08-01,116.5,False,Moderate,89.668,Satisfactory
+2021-08-02,130.25,False,Moderate,141.794,Moderate
+2021-08-03,144.0,True,Moderate,136.658,Moderate
+2021-08-04,102.0,True,Moderate,102.696,Moderate
+2021-08-05,128.0,True,Moderate,130.032,Moderate
+2021-08-06,154.0,True,Moderate,146.406,Moderate
+2021-08-07,129.0,True,Moderate,132.646,Moderate
+2021-08-08,130.0,True,Moderate,123.896,Moderate
+2021-08-09,109.0,True,Moderate,109.522,Moderate
+2021-08-10,206.0,True,Poor,220.966,Poor
+2021-08-11,279.0,True,Poor,270.572,Poor
+2021-08-12,263.0,True,Poor,256.092,Poor
+2021-08-13,235.0,True,Poor,231.984,Poor
+2021-08-14,234.0,True,Poor,228.592,Poor
+2021-08-15,207.0,True,Poor,203.94,Poor
+2021-08-16,220.0,True,Poor,213.746,Poor
+2021-08-17,289.0,True,Poor,303.1,Very Poor
+2021-08-18,269.0,True,Poor,269.638,Poor
+2021-08-19,283.0,True,Poor,276.602,Poor
+2021-08-20,173.0,False,Moderate,121.524,Moderate
+2021-08-21,63.0,True,Satisfactory,64.226,Satisfactory
+2021-08-22,114.66666666666666,False,Moderate,67.598,Satisfactory
+2021-08-23,166.33333333333331,False,Moderate,231.986,Poor
+2021-08-24,218.0,True,Poor,218.556,Poor
+2021-08-25,225.0,True,Poor,228.022,Poor
+2021-08-26,246.0,True,Poor,244.652,Poor
+2021-08-27,139.0,True,Moderate,177.932,Moderate
+2021-08-28,223.0,True,Poor,209.63,Poor
+2021-08-29,153.0,True,Moderate,157.206,Moderate
+2021-08-30,141.0,True,Moderate,140.428,Moderate
+2021-08-31,102.5,False,Moderate,86.936,Satisfactory
+2021-09-01,64.0,True,Satisfactory,68.224,Satisfactory
+2021-09-02,90.0,True,Satisfactory,109.526,Moderate
+2021-09-03,98.0,True,Satisfactory,96.03,Satisfactory
+2021-09-04,105.0,True,Moderate,143.078,Moderate
+2021-09-05,184.0,True,Moderate,202.276,Poor
+2021-09-06,265.0,True,Poor,238.44,Poor
+2021-09-07,141.0,True,Moderate,133.662,Moderate
+2021-09-08,88.0,True,Satisfactory,86.252,Satisfactory
+2021-09-09,91.0,True,Satisfactory,91.296,Satisfactory
+2021-09-10,88.0,True,Satisfactory,91.922,Satisfactory
+2021-09-11,80.0,True,Satisfactory,81.702,Satisfactory
+2021-09-12,91.0,True,Satisfactory,94.104,Satisfactory
+2021-09-13,131.0,True,Moderate,125.34,Moderate
+2021-09-14,94.0,True,Satisfactory,103.592,Moderate
+2021-09-15,112.0,True,Moderate,112.428,Moderate
+2021-09-16,151.0,True,Moderate,137.182,Moderate
+2021-09-17,111.0,True,Moderate,111.334,Moderate
+2021-09-18,103.0,True,Moderate,100.85,Moderate
+2021-09-19,94.0,True,Satisfactory,94.748,Satisfactory
+2021-09-20,100.0,True,Satisfactory,101.262,Moderate
+2021-09-21,103.0,True,Moderate,101.83,Moderate
+2021-09-22,107.0,True,Moderate,103.53,Moderate
+2021-09-23,103.0,True,Moderate,100.394,Moderate
+2021-09-24,99.0,True,Satisfactory,97.726,Satisfactory
+2021-09-25,91.0,True,Satisfactory,92.32,Satisfactory
+2021-09-26,108.0,True,Moderate,105.554,Moderate
+2021-09-27,126.0,True,Moderate,131.448,Moderate
+2021-09-28,152.0,True,Moderate,140.774,Moderate
+2021-09-29,93.0,True,Satisfactory,97.622,Satisfactory
+2021-09-30,92.0,True,Satisfactory,105.468,Moderate
+2021-10-01,185.0,True,Moderate,194.36,Moderate
+2021-10-02,247.0,True,Poor,249.784,Poor
+2021-10-03,282.0,True,Poor,261.872,Poor
+2021-10-04,262.0,True,Poor,253.95,Poor
+2021-10-05,200.0,True,Moderate,200.576,Poor
+2021-10-06,127.0,True,Moderate,184.27,Moderate
+2021-10-07,291.0,True,Poor,298.316,Poor
+2021-10-08,283.0,True,Poor,276.116,Poor
+2021-10-09,283.0,True,Poor,279.672,Poor
+2021-10-10,288.0,True,Poor,276.836,Poor
+2021-10-11,274.0,True,Poor,272.972,Poor
+2021-10-12,266.0,True,Poor,265.322,Poor
+2021-10-13,254.0,True,Poor,254.814,Poor
+2021-10-14,299.0,True,Poor,293.746,Poor
+2021-10-15,230.0,True,Poor,252.248,Poor
+2021-10-16,336.0,True,Very Poor,335.722,Very Poor
+2021-10-17,331.0,True,Very Poor,314.86,Very Poor
+2021-10-18,70.0,True,Satisfactory,68.98,Satisfactory
+2021-10-19,101.0,True,Moderate,138.572,Moderate
+2021-10-20,326.0,True,Very Poor,319.518,Very Poor
+2021-10-21,231.0,True,Poor,253.902,Poor
+2021-10-22,154.0,True,Moderate,187.54,Moderate
+2021-10-23,216.0,True,Poor,210.622,Poor
+2021-10-24,166.5,False,Moderate,131.27,Moderate
+2021-10-25,117.0,True,Moderate,127.734,Moderate
+2021-10-26,230.0,True,Poor,227.656,Poor
+2021-10-27,313.0,True,Very Poor,309.764,Very Poor
+2021-10-28,327.0,True,Very Poor,321.842,Very Poor
+2021-10-29,323.0,True,Very Poor,320.594,Very Poor
+2021-10-30,310.0,True,Very Poor,297.414,Poor
+2021-10-31,348.0,True,Very Poor,344.034,Very Poor
+2021-11-01,349.0,True,Very Poor,323.274,Very Poor
+2021-11-02,265.0,True,Poor,267.99,Poor
+2021-11-03,298.0,True,Poor,304.812,Very Poor
+2021-11-04,401.0,True,Severe,408.192,Severe
+2021-11-05,466.0,True,Severe,456.952,Severe
+2021-11-06,450.0,False,Severe,435.054,Severe
+2021-11-07,434.0,True,Severe,429.892,Severe
+2021-11-08,431.0,True,Severe,429.8,Severe
+2021-11-09,445.0,True,Severe,440.238,Severe
+2021-11-10,444.0,True,Severe,437.056,Severe
+2021-11-11,462.0,True,Severe,451.352,Severe
+2021-11-12,490.0,True,Severe,473.422,Severe
+2021-11-13,450.0,True,Severe,445.232,Severe
+2021-11-14,398.0,True,Very Poor,391.098,Very Poor
+2021-11-15,401.0,True,Severe,390.594,Very Poor
+2021-11-16,436.0,True,Severe,425.288,Severe
+2021-11-17,421.0,True,Severe,411.288,Severe
+2021-11-18,373.0,True,Very Poor,383.192,Very Poor
+2021-11-19,416.0,True,Severe,409.192,Severe
+2021-11-20,390.0,True,Very Poor,387.084,Very Poor
+2021-11-21,405.0,True,Severe,396.878,Very Poor
+2021-11-22,358.0,True,Very Poor,336.238,Very Poor
+2021-11-23,298.0,True,Poor,316.038,Very Poor
+2021-11-24,429.0,True,Severe,429.27,Severe
+2021-11-25,435.0,True,Severe,440.584,Severe
+2021-11-26,456.0,True,Severe,457.67,Severe
+2021-11-27,447.0,True,Severe,441.724,Severe
+2021-11-28,425.0,True,Severe,430.48,Severe
+2021-11-29,440.0,True,Severe,436.28,Severe
+2021-11-30,364.0,True,Very Poor,366.03,Very Poor
+2021-12-01,457.0,True,Severe,451.808,Severe
+2021-12-02,435.0,True,Severe,419.55,Severe
+2021-12-03,375.0,True,Very Poor,372.542,Very Poor
+2021-12-04,410.0,True,Severe,406.05,Severe
+2021-12-05,385.0,True,Very Poor,376.398,Very Poor
+2021-12-06,363.0,True,Very Poor,347.996,Very Poor
+2021-12-07,275.0,True,Poor,285.598,Poor
+2021-12-08,299.0,True,Poor,297.81,Poor
+2021-12-09,400.0,True,Very Poor,396.62,Very Poor
+2021-12-10,385.0,True,Very Poor,370.778,Very Poor
+2021-12-11,307.0,True,Very Poor,303.08,Very Poor
+2021-12-12,304.0,True,Very Poor,311.106,Very Poor
+2021-12-13,416.0,True,Severe,415.914,Severe
+2021-12-14,407.0,True,Severe,405.89,Severe
+2021-12-15,402.0,True,Severe,391.37,Very Poor
+2021-12-16,408.0,True,Severe,404.112,Severe
+2021-12-17,338.0,True,Very Poor,335.146,Very Poor
+2021-12-18,333.0,False,Very Poor,309.534,Very Poor
+2021-12-19,328.0,True,Very Poor,323.94,Very Poor
+2021-12-20,364.0,True,Very Poor,369.572,Very Poor
+2021-12-21,463.0,True,Severe,460.598,Severe
+2021-12-22,455.0,True,Severe,455.938,Severe
+2021-12-23,464.0,True,Severe,462.114,Severe
+2021-12-24,460.0,True,Severe,451.01,Severe
+2021-12-25,465.0,True,Severe,461.982,Severe
+2021-12-26,475.0,True,Severe,468.768,Severe
+2021-12-27,259.0,True,Poor,256.668,Poor
+2021-12-28,359.0,True,Very Poor,349.172,Very Poor
+2021-12-29,322.0,True,Very Poor,325.708,Very Poor
+2021-12-30,367.3333333333333,False,Very Poor,430.986,Severe
+2021-12-31,412.6666666666667,False,Severe,440.84,Severe
+2022-01-01,458.0,True,Severe,455.36,Severe
+2022-01-02,453.0,True,Severe,455.25,Severe
+2022-01-03,436.0,True,Severe,438.578,Severe
+2022-01-04,429.0,True,Severe,427.094,Severe
+2022-01-05,444.0,True,Severe,440.246,Severe
+2022-01-06,289.0,True,Poor,271.508,Poor
+2022-01-07,183.0,True,Moderate,173.04,Moderate
+2022-01-08,106.0,True,Moderate,103.838,Moderate
+2022-01-09,75.0,True,Satisfactory,84.516,Satisfactory
+2022-01-10,204.0,True,Poor,225.71,Poor
+2022-01-11,285.0,True,Poor,297.184,Poor
+2022-01-12,298.0,True,Poor,303.118,Very Poor
+2022-01-13,437.0,True,Severe,432.588,Severe
+2022-01-14,397.0,True,Very Poor,387.68,Very Poor
+2022-01-15,352.0,True,Very Poor,350.37,Very Poor
+2022-01-16,360.0,True,Very Poor,352.808,Very Poor
+2022-01-17,398.0,True,Very Poor,399.124,Very Poor
+2022-01-18,430.0,True,Severe,435.748,Severe
+2022-01-19,462.0,True,Severe,449.67,Severe
+2022-01-20,439.0,True,Severe,422.808,Severe
+2022-01-21,411.0,True,Severe,393.182,Very Poor
+2022-01-22,351.0,True,Very Poor,332.346,Very Poor
+2022-01-23,255.0,True,Poor,282.09,Poor
+2022-01-24,378.0,True,Very Poor,377.232,Very Poor
+2022-01-25,400.0,True,Very Poor,402.942,Severe
+2022-01-26,409.0,True,Severe,397.044,Very Poor
+2022-01-27,429.0,True,Severe,426.976,Severe
+2022-01-28,415.0,True,Severe,394.536,Very Poor
+2022-01-29,414.0,True,Severe,418.114,Severe
+2022-01-30,435.0,True,Severe,423.134,Severe
+2022-01-31,449.0,True,Severe,446.1,Severe
+2022-02-01,426.5,False,Severe,442.026,Severe
+2022-02-02,404.0,True,Severe,389.97,Very Poor
+2022-02-03,344.0,True,Very Poor,337.616,Very Poor
+2022-02-04,258.0,True,Poor,255.144,Poor
+2022-02-05,342.0,True,Very Poor,343.444,Very Poor
+2022-02-06,373.0,True,Very Poor,392.962,Very Poor
+2022-02-07,389.0,True,Very Poor,380.074,Very Poor
+2022-02-08,363.0,True,Very Poor,370.402,Very Poor
+2022-02-09,277.0,True,Poor,267.19,Poor
+2022-02-10,279.0,True,Poor,306.348,Very Poor
+2022-02-11,416.0,True,Severe,409.168,Severe
+2022-02-12,311.0,True,Very Poor,292.766,Poor
+2022-02-13,355.0,True,Very Poor,358.926,Very Poor
+2022-02-14,350.0,True,Very Poor,352.668,Very Poor
+2022-02-15,374.5,False,Very Poor,268.274,Poor
+2022-02-16,399.0,True,Very Poor,409.018,Severe
+2022-02-17,320.0,True,Very Poor,319.588,Very Poor
+2022-02-18,362.0,True,Very Poor,354.582,Very Poor
+2022-02-19,283.0,True,Poor,265.234,Poor
+2022-02-20,224.0,True,Poor,219.376,Poor
+2022-02-21,211.0,True,Poor,237.664,Poor
+2022-02-22,321.0,True,Very Poor,316.916,Very Poor
+2022-02-23,232.0,True,Poor,243.574,Poor
+2022-02-24,330.0,True,Very Poor,330.396,Very Poor
+2022-02-25,330.0,True,Very Poor,330.164,Very Poor
+2022-02-26,100.0,True,Satisfactory,95.028,Satisfactory
+2022-02-27,114.0,True,Moderate,130.074,Moderate
+2022-02-28,185.0,True,Moderate,183.74,Moderate
+2022-03-01,219.0,True,Poor,216.454,Poor
+2022-03-02,258.0,True,Poor,260.69,Poor
+2022-03-03,200.0,True,Moderate,203.268,Poor
+2022-03-04,180.0,False,Moderate,192.348,Moderate
+2022-03-05,160.0,True,Moderate,168.068,Moderate
+2022-03-06,202.0,True,Poor,210.786,Poor
+2022-03-07,331.0,True,Very Poor,334.58,Very Poor
+2022-03-08,342.0,True,Very Poor,321.708,Very Poor
+2022-03-09,201.0,True,Poor,203.456,Poor
+2022-03-10,209.0,True,Poor,213.5,Poor
+2022-03-11,237.0,True,Poor,229.936,Poor
+2022-03-12,281.0,True,Poor,288.004,Poor
+2022-03-13,304.0,True,Very Poor,299.852,Poor
+2022-03-14,309.0,True,Very Poor,309.074,Very Poor
+2022-03-15,271.0,True,Poor,264.962,Poor
+2022-03-16,245.0,True,Poor,244.642,Poor
+2022-03-17,254.0,True,Poor,254.854,Poor
+2022-03-18,296.0,True,Poor,288.784,Poor
+2022-03-19,258.0,True,Poor,255.81,Poor
+2022-03-20,245.0,True,Poor,250.644,Poor
+2022-03-21,344.0,True,Very Poor,331.042,Very Poor
+2022-03-22,201.0,True,Poor,205.12,Poor
+2022-03-23,237.0,True,Poor,243.434,Poor
+2022-03-24,352.0,True,Very Poor,350.474,Very Poor
+2022-03-25,243.0,True,Poor,236.088,Poor
+2022-03-26,262.0,True,Poor,258.958,Poor
+2022-03-27,217.0,True,Poor,242.724,Poor
+2022-03-28,390.0,True,Very Poor,362.882,Very Poor
+2022-03-29,327.0,True,Very Poor,328.774,Very Poor
+2022-03-30,336.0,True,Very Poor,331.108,Very Poor
+2022-03-31,329.0,True,Very Poor,330.062,Very Poor
+2022-04-01,211.0,True,Poor,201.484,Poor
+2022-04-02,239.0,True,Poor,241.976,Poor
+2022-04-03,257.0,False,Poor,264.606,Poor
+2022-04-04,275.0,True,Poor,269.544,Poor
+2022-04-05,238.0,True,Poor,236.176,Poor
+2022-04-06,258.0,True,Poor,274.55,Poor
+2022-04-07,268.0,True,Poor,272.61,Poor
+2022-04-08,249.0,True,Poor,253.302,Poor
+2022-04-09,286.0,True,Poor,284.82,Poor
+2022-04-10,269.0,True,Poor,269.884,Poor
+2022-04-11,314.0,True,Very Poor,317.848,Very Poor
+2022-04-12,268.0,True,Poor,272.146,Poor
+2022-04-13,345.0,True,Very Poor,353.08,Very Poor
+2022-04-14,337.0,True,Very Poor,326.974,Very Poor
+2022-04-15,258.0,True,Poor,250.608,Poor
+2022-04-16,274.0,True,Poor,273.386,Poor
+2022-04-17,273.0,True,Poor,286.312,Poor
+2022-04-18,343.0,True,Very Poor,345.842,Very Poor
+2022-04-19,407.0,True,Severe,398.324,Very Poor
+2022-04-20,316.0,True,Very Poor,298.906,Poor
+2022-04-21,364.0,True,Very Poor,347.496,Very Poor
+2022-04-22,266.0,True,Poor,266.674,Poor
+2022-04-23,297.0,True,Poor,298.382,Poor
+2022-04-24,288.0,True,Poor,294.288,Poor
+2022-04-25,285.0,True,Poor,283.242,Poor
+2022-04-26,256.0,True,Poor,251.04,Poor
+2022-04-27,353.0,True,Very Poor,360.162,Very Poor
+2022-04-28,342.0,True,Very Poor,344.03,Very Poor
+2022-04-29,382.0,True,Very Poor,366.13,Very Poor
+2022-04-30,332.0,True,Very Poor,330.748,Very Poor
+2022-05-01,330.0,True,Very Poor,335.32,Very Poor
+2022-05-02,217.0,True,Poor,218.736,Poor
+2022-05-03,207.0,True,Poor,224.672,Poor
+2022-05-04,293.0,True,Poor,248.942,Poor
+2022-05-05,169.0,True,Moderate,188.2,Moderate
+2022-05-06,346.0,True,Very Poor,334.348,Very Poor
+2022-05-07,266.0,True,Poor,270.638,Poor
+2022-05-08,236.0,True,Poor,224.226,Poor
+2022-05-09,183.0,True,Moderate,175.752,Moderate
+2022-05-10,195.0,True,Moderate,179.246,Moderate
+2022-05-11,204.0,True,Poor,191.13,Moderate
+2022-05-12,256.0,True,Poor,222.996,Poor
+2022-05-13,187.0,True,Moderate,202.832,Poor
+2022-05-14,331.0,True,Very Poor,324.856,Very Poor
+2022-05-15,328.0,True,Very Poor,316.166,Very Poor
+2022-05-16,300.0,True,Poor,311.844,Very Poor
+2022-05-17,268.0,True,Poor,248.878,Poor
+2022-05-18,222.0,False,Poor,214.47,Poor
+2022-05-19,176.0,True,Moderate,192.09,Moderate
+2022-05-20,300.0,True,Poor,301.504,Very Poor
+2022-05-21,376.0,True,Very Poor,365.854,Very Poor
+2022-05-22,266.0,True,Poor,239.976,Poor
+2022-05-23,152.0,True,Moderate,146.812,Moderate
+2022-05-24,94.0,True,Satisfactory,99.342,Satisfactory
+2022-05-25,195.0,True,Moderate,213.006,Poor
+2022-05-26,304.0,True,Very Poor,299.992,Poor
+2022-05-27,251.0,True,Poor,257.368,Poor
+2022-05-28,288.5,False,Poor,322.178,Very Poor
+2022-05-29,326.0,True,Very Poor,315.592,Very Poor
+2022-05-30,202.0,True,Poor,196.952,Moderate
+2022-05-31,228.0,True,Poor,254.774,Poor
+2022-06-01,417.0,True,Severe,406.464,Severe
+2022-06-02,321.0,True,Very Poor,325.72,Very Poor
+2022-06-03,351.0,True,Very Poor,353.768,Very Poor
+2022-06-04,343.0,True,Very Poor,346.342,Very Poor
+2022-06-05,346.0,True,Very Poor,333.15,Very Poor
+2022-06-06,293.0,True,Poor,297.992,Poor
+2022-06-07,326.0,True,Very Poor,335.274,Very Poor
+2022-06-08,397.0,True,Very Poor,398.202,Very Poor
+2022-06-09,320.0,True,Very Poor,310.108,Very Poor
+2022-06-10,379.0,True,Very Poor,370.184,Very Poor
+2022-06-11,380.0,True,Very Poor,364.902,Very Poor
+2022-06-12,334.0,True,Very Poor,328.128,Very Poor
+2022-06-13,263.0,True,Poor,260.164,Poor
+2022-06-14,308.0,True,Very Poor,305.43,Very Poor
+2022-06-15,213.0,True,Poor,197.532,Moderate
+2022-06-16,160.5,False,Moderate,154.248,Moderate
+2022-06-17,108.0,True,Moderate,106.826,Moderate
+2022-06-18,141.0,False,Moderate,116.494,Moderate
+2022-06-19,174.0,True,Moderate,180.106,Moderate
+2022-06-20,219.0,True,Poor,210.548,Poor
+2022-06-21,172.0,True,Moderate,161.49,Moderate
+2022-06-22,166.0,True,Moderate,180.012,Moderate
+2022-06-23,189.0,True,Moderate,199.924,Moderate
+2022-06-24,262.0,True,Poor,262.836,Poor
+2022-06-25,316.0,True,Very Poor,310.84,Very Poor
+2022-06-26,175.0,True,Moderate,168.704,Moderate
+2022-06-27,118.0,True,Moderate,125.768,Moderate
+2022-06-28,139.0,True,Moderate,151.288,Moderate
+2022-06-29,156.0,True,Moderate,155.102,Moderate
+2022-06-30,95.0,True,Satisfactory,92.38,Satisfactory
+2022-07-01,79.0,True,Satisfactory,84.084,Satisfactory
+2022-07-02,115.0,True,Moderate,126.306,Moderate
+2022-07-03,83.0,True,Satisfactory,87.722,Satisfactory
+2022-07-04,130.0,True,Moderate,136.384,Moderate
+2022-07-05,175.0,True,Moderate,162.264,Moderate
+2022-07-06,102.0,True,Moderate,109.214,Moderate
+2022-07-07,101.5,False,Moderate,113.814,Moderate
+2022-07-08,101.0,True,Moderate,104.682,Moderate
+2022-07-09,115.0,True,Moderate,114.256,Moderate
+2022-07-10,102.0,True,Moderate,111.402,Moderate
+2022-07-11,130.0,True,Moderate,134.846,Moderate
+2022-07-12,146.0,True,Moderate,134.48,Moderate
+2022-07-13,129.0,True,Moderate,127.114,Moderate
+2022-07-14,124.0,True,Moderate,123.396,Moderate
+2022-07-15,112.0,True,Moderate,112.822,Moderate
+2022-07-16,101.0,True,Moderate,97.402,Satisfactory
+2022-07-17,93.0,True,Satisfactory,92.068,Satisfactory
+2022-07-18,127.0,True,Moderate,137.556,Moderate
+2022-07-19,181.0,True,Moderate,195.94,Moderate
+2022-07-20,213.0,True,Poor,185.59,Moderate
+2022-07-21,84.0,True,Satisfactory,100.506,Moderate
+2022-07-22,156.0,True,Moderate,140.958,Moderate
+2022-07-23,77.0,True,Satisfactory,81.328,Satisfactory
+2022-07-24,81.0,True,Satisfactory,91.082,Satisfactory
+2022-07-25,125.0,True,Moderate,110.618,Moderate
+2022-07-26,79.0,True,Satisfactory,85.15,Satisfactory
+2022-07-27,82.0,True,Satisfactory,92.408,Satisfactory
+2022-07-28,177.0,False,Moderate,169.992,Moderate
+2022-07-29,272.0,True,Poor,251.474,Poor
+2022-07-30,98.0,True,Satisfactory,103.03,Moderate
+2022-07-31,112.0,True,Moderate,105.594,Moderate
+2022-08-01,97.0,True,Satisfactory,109.95,Moderate
+2022-08-02,169.0,True,Moderate,211.852,Poor
+2022-08-03,331.0,True,Very Poor,276.65,Poor
+2022-08-04,136.0,True,Moderate,131.508,Moderate
+2022-08-05,140.5,False,Moderate,100.372,Moderate
+2022-08-06,145.0,True,Moderate,141.928,Moderate
+2022-08-07,128.0,False,Moderate,131.514,Moderate
+2022-08-08,111.0,True,Moderate,122.186,Moderate
+2022-08-09,105.8,False,Moderate,136.468,Moderate
+2022-08-10,100.6,False,Moderate,104.282,Moderate
+2022-08-11,95.4,False,Satisfactory,87.878,Satisfactory
+2022-08-12,90.2,False,Satisfactory,87.768,Satisfactory
+2022-08-13,85.0,True,Satisfactory,88.232,Satisfactory
+2022-08-14,201.0,True,Poor,200.564,Poor
+2022-08-15,84.0,True,Satisfactory,87.378,Satisfactory
+2022-08-16,89.0,True,Satisfactory,89.416,Satisfactory
+2022-08-17,68.0,True,Satisfactory,68.422,Satisfactory
+2022-08-18,115.0,True,Moderate,150.888,Moderate
+2022-08-19,233.0,True,Poor,238.406,Poor
+2022-08-20,221.0,True,Poor,200.844,Poor
+2022-08-21,100.0,True,Satisfactory,166.674,Moderate
+2022-08-22,179.0,True,Moderate,161.136,Moderate
+2022-08-23,105.0,True,Moderate,98.986,Satisfactory
+2022-08-24,63.0,True,Satisfactory,68.978,Satisfactory
+2022-08-25,128.0,True,Moderate,157.122,Moderate
+2022-08-26,267.0,True,Poor,257.45,Poor
+2022-08-27,234.0,True,Poor,244.596,Poor
+2022-08-28,253.0,True,Poor,254.528,Poor
+2022-08-29,260.0,True,Poor,235.294,Poor
+2022-08-30,157.0,True,Moderate,168.45,Moderate
+2022-08-31,226.0,False,Poor,242.812,Poor
+2022-09-01,295.0,True,Poor,288.514,Poor
+2022-09-02,106.0,True,Moderate,121.272,Moderate
+2022-09-03,235.0,True,Poor,242.604,Poor
+2022-09-04,361.0,True,Very Poor,311.004,Very Poor
+2022-09-05,229.0,True,Poor,245.558,Poor
+2022-09-06,253.0,True,Poor,253.316,Poor
+2022-09-07,227.0,True,Poor,216.316,Poor
+2022-09-08,181.0,True,Moderate,180.508,Moderate
+2022-09-09,141.0,True,Moderate,140.702,Moderate
+2022-09-10,115.0,True,Moderate,117.042,Moderate
+2022-09-11,77.0,True,Satisfactory,83.824,Satisfactory
+2022-09-12,78.0,True,Satisfactory,83.396,Satisfactory
+2022-09-13,87.0,True,Satisfactory,86.628,Satisfactory
+2022-09-14,81.0,True,Satisfactory,82.846,Satisfactory
+2022-09-15,78.0,True,Satisfactory,80.77,Satisfactory
+2022-09-16,57.0,True,Satisfactory,68.644,Satisfactory
+2022-09-17,97.0,True,Satisfactory,115.212,Moderate
+2022-09-18,252.0,True,Poor,267.094,Poor
+2022-09-19,405.0,True,Severe,389.534,Very Poor
+2022-09-20,333.0,True,Very Poor,325.554,Very Poor
+2022-09-21,236.0,True,Poor,210.458,Poor
+2022-09-22,75.0,True,Satisfactory,77.69,Satisfactory
+2022-09-23,53.0,True,Satisfactory,62.686,Satisfactory
+2022-09-24,58.0,True,Satisfactory,61.304,Satisfactory
+2022-09-25,62.0,True,Satisfactory,72.172,Satisfactory
+2022-09-26,143.0,True,Moderate,168.024,Moderate
+2022-09-27,300.0,True,Poor,311.696,Very Poor
+2022-09-28,440.0,True,Severe,425.054,Severe
+2022-09-29,449.0,True,Severe,438.656,Severe
+2022-09-30,428.0,True,Severe,422.788,Severe
+2022-10-01,422.0,True,Severe,422.644,Severe
+2022-10-02,453.0,True,Severe,436.374,Severe
+2022-10-03,376.0,True,Very Poor,369.732,Very Poor
+2022-10-04,338.0,True,Very Poor,353.224,Very Poor
+2022-10-05,389.0,True,Very Poor,354.922,Very Poor
+2022-10-06,92.0,True,Satisfactory,84.548,Satisfactory
+2022-10-07,75.0,True,Satisfactory,81.014,Satisfactory
+2022-10-08,86.0,True,Satisfactory,79.066,Satisfactory
+2022-10-09,67.0,False,Satisfactory,86.066,Satisfactory
+2022-10-10,48.0,True,Good,59.178,Satisfactory
+2022-10-11,47.0,True,Good,75.214,Satisfactory
+2022-10-12,236.0,True,Poor,245.124,Poor
+2022-10-13,325.0,True,Very Poor,324.47,Very Poor
+2022-10-14,378.0,True,Very Poor,371.636,Very Poor
+2022-10-15,402.0,False,Severe,386.966,Very Poor
+2022-10-16,426.0,True,Severe,400.274,Severe
+2022-10-17,424.0,True,Severe,403.084,Severe
+2022-10-18,298.0,True,Poor,331.05,Very Poor
+2022-10-19,352.0,False,Very Poor,335.422,Very Poor
+2022-10-20,406.0,True,Severe,396.92,Very Poor
+2022-10-21,379.0,True,Very Poor,383.946,Very Poor
+2022-10-22,415.0,True,Severe,402.958,Severe
+2022-10-23,373.0,True,Very Poor,379.968,Very Poor
+2022-10-24,400.0,True,Very Poor,384.48,Very Poor
+2022-10-25,332.0,True,Very Poor,332.942,Very Poor
+2022-10-26,361.0,True,Very Poor,354.318,Very Poor
+2022-10-27,421.0,True,Severe,424.264,Severe
+2022-10-28,458.0,True,Severe,449.052,Severe
+2022-10-29,452.0,True,Severe,447.338,Severe
+2022-10-30,449.0,True,Severe,439.982,Severe
+2022-10-31,422.0,True,Severe,420.048,Severe
+2022-11-01,447.0,True,Severe,430.118,Severe
+2022-11-02,413.0,True,Severe,414.364,Severe
+2022-11-03,476.0,True,Severe,468.356,Severe
+2022-11-04,461.0,True,Severe,453.812,Severe
+2022-11-05,362.0,True,Very Poor,352.608,Very Poor
+2022-11-06,328.0,True,Very Poor,330.166,Very Poor
+2022-11-07,358.0,True,Very Poor,354.872,Very Poor
+2022-11-08,313.0,False,Very Poor,366.374,Very Poor
+2022-11-09,268.0,True,Poor,267.984,Poor
+2022-11-10,366.0,True,Very Poor,361.02,Very Poor
+2022-11-11,352.0,True,Very Poor,347.282,Very Poor
+2022-11-12,330.0,True,Very Poor,332.648,Very Poor
+2022-11-13,332.0,True,Very Poor,331.202,Very Poor
+2022-11-14,371.0,True,Very Poor,353.992,Very Poor
+2022-11-15,260.0,True,Poor,260.756,Poor
+2022-11-16,267.0,True,Poor,264.932,Poor
+2022-11-17,255.0,True,Poor,255.09,Poor
+2022-11-18,296.0,True,Poor,306.186,Very Poor
+2022-11-19,364.0,True,Very Poor,374.444,Very Poor
+2022-11-20,384.0,True,Very Poor,379.836,Very Poor
+2022-11-21,351.0,True,Very Poor,344.314,Very Poor
+2022-11-22,299.0,True,Poor,299.346,Poor
+2022-11-23,310.0,True,Very Poor,311.042,Very Poor
+2022-11-24,345.5,False,Very Poor,271.94,Poor
+2022-11-25,381.0,True,Very Poor,378.646,Very Poor
+2022-11-26,357.0,True,Very Poor,360.466,Very Poor
+2022-11-27,365.0,True,Very Poor,366.642,Very Poor
+2022-11-28,401.0,True,Severe,405.818,Severe
+2022-11-29,415.0,True,Severe,422.144,Severe
+2022-11-30,421.0,True,Severe,415.282,Severe
+2022-12-01,406.0,True,Severe,401.094,Severe
+2022-12-02,375.0,True,Very Poor,382.116,Very Poor
+2022-12-03,412.0,True,Severe,413.032,Severe
+2022-12-04,435.0,True,Severe,429.77,Severe
+2022-12-05,375.0,True,Very Poor,369.246,Very Poor
+2022-12-06,367.0,True,Very Poor,359.032,Very Poor
+2022-12-07,312.0,True,Very Poor,296.57,Poor
+2022-12-08,297.0,True,Poor,305.462,Very Poor
+2022-12-09,346.0,True,Very Poor,348.522,Very Poor
+2022-12-10,414.0,True,Severe,420.426,Severe
+2022-12-11,342.0,True,Very Poor,332.102,Very Poor
+2022-12-12,275.0,True,Poor,261.62,Poor
+2022-12-13,198.0,True,Moderate,196.596,Moderate
+2022-12-14,198.0,True,Moderate,206.534,Poor
+2022-12-15,210.0,True,Poor,225.87,Poor
+2022-12-16,295.0,True,Poor,314.886,Very Poor
+2022-12-17,372.0,True,Very Poor,383.924,Very Poor
+2022-12-18,409.0,True,Severe,421.692,Severe
+2022-12-19,452.0,True,Severe,437.19,Severe
+2022-12-20,413.0,True,Severe,409.048,Severe
+2022-12-21,351.0,True,Very Poor,355.144,Very Poor
+2022-12-22,397.0,True,Very Poor,400.93,Severe
+2022-12-23,375.0,True,Very Poor,366.678,Very Poor
+2022-12-24,350.0,True,Very Poor,346.824,Very Poor
+2022-12-25,342.0,True,Very Poor,340.704,Very Poor
+2022-12-26,362.0,True,Very Poor,370.342,Very Poor
+2022-12-27,395.0,True,Very Poor,379.836,Very Poor
+2022-12-28,341.0,True,Very Poor,335.33,Very Poor
+2022-12-29,320.0,True,Very Poor,326.332,Very Poor
+2022-12-30,383.0,True,Very Poor,387.166,Very Poor
+2022-12-31,377.0,True,Very Poor,362.128,Very Poor
+2023-01-01,294.0,True,Poor,296.724,Poor
+2023-01-02,375.0,True,Very Poor,380.23,Very Poor
+2023-01-03,400.0,True,Very Poor,403.208,Severe
+2023-01-04,390.0,True,Very Poor,389.288,Very Poor
+2023-01-05,422.0,True,Severe,424.8,Severe
+2023-01-06,448.0,True,Severe,444.326,Severe
+2023-01-07,434.0,True,Severe,430.68,Severe
+2023-01-08,435.0,True,Severe,429.134,Severe
+2023-01-09,471.0,True,Severe,468.74,Severe
+2023-01-10,445.0,True,Severe,430.106,Severe
+2023-01-11,379.0,True,Very Poor,369.082,Very Poor
+2023-01-12,382.0,True,Very Poor,379.286,Very Poor
+2023-01-13,375.0,True,Very Poor,373.55,Very Poor
+2023-01-14,370.0,True,Very Poor,358.794,Very Poor
+2023-01-15,266.0,True,Poor,277.072,Poor
+2023-01-16,368.0,True,Very Poor,376.124,Very Poor
+2023-01-17,348.0,True,Very Poor,355.028,Very Poor
+2023-01-18,365.0,True,Very Poor,394.124,Very Poor
+2023-01-19,390.0,True,Very Poor,399.316,Very Poor
+2023-01-20,275.0,True,Poor,264.508,Poor
+2023-01-21,312.0,True,Very Poor,332.088,Very Poor
+2023-01-22,427.0,True,Severe,420.328,Severe
+2023-01-23,372.0,True,Very Poor,362.88,Very Poor
+2023-01-24,235.0,True,Poor,206.358,Poor
+2023-01-25,180.0,True,Moderate,210.506,Poor
+2023-01-26,337.0,True,Very Poor,335.362,Very Poor
+2023-01-27,278.0,True,Poor,259.112,Poor
+2023-01-28,278.0,True,Poor,276.324,Poor
+2023-01-29,378.0,True,Very Poor,388.332,Very Poor
+2023-01-30,232.0,True,Poor,218.598,Poor
+2023-01-31,246.0,True,Poor,243.336,Poor
+2023-02-01,216.0,True,Poor,227.86,Poor
+2023-02-02,298.0,True,Poor,296.74,Poor
+2023-02-03,346.0,True,Very Poor,372.108,Very Poor
+2023-02-04,415.0,True,Severe,402.022,Severe
+2023-02-05,323.0,True,Very Poor,322.382,Very Poor
+2023-02-06,366.0,True,Very Poor,369.108,Very Poor
+2023-02-07,387.0,True,Very Poor,374.346,Very Poor
+2023-02-08,304.0,True,Very Poor,316.682,Very Poor
+2023-02-09,332.0,True,Very Poor,322.65,Very Poor
+2023-02-10,182.0,True,Moderate,198.418,Moderate
+2023-02-11,356.0,True,Very Poor,362.104,Very Poor
+2023-02-12,274.0,True,Poor,254.662,Poor
+2023-02-13,212.0,True,Poor,214.55,Poor
+2023-02-14,187.0,True,Moderate,195.738,Moderate
+2023-02-15,227.0,True,Poor,233.014,Poor
+2023-02-16,310.0,True,Very Poor,335.294,Very Poor
+2023-02-17,415.0,True,Severe,415.858,Severe
+2023-02-18,388.0,True,Very Poor,396.39,Very Poor
+2023-02-19,355.0,True,Very Poor,351.488,Very Poor
+2023-02-20,357.0,True,Very Poor,347.736,Very Poor
+2023-02-21,250.0,True,Poor,252.856,Poor
+2023-02-22,345.0,True,Very Poor,330.026,Very Poor
+2023-02-23,242.0,True,Poor,229.324,Poor
+2023-02-24,190.0,True,Moderate,199.442,Moderate
+2023-02-25,263.0,True,Poor,276.618,Poor
+2023-02-26,353.0,True,Very Poor,346.964,Very Poor
+2023-02-27,303.0,True,Very Poor,310.142,Very Poor
+2023-02-28,238.0,True,Poor,246.404,Poor
+2023-03-01,232.0,True,Poor,238.58,Poor
+2023-03-02,289.0,True,Poor,272.154,Poor
+2023-03-03,198.0,True,Moderate,195.418,Moderate
+2023-03-04,194.0,True,Moderate,211.474,Poor
+2023-03-05,225.0,True,Poor,204.968,Poor
+2023-03-06,140.0,True,Moderate,163.23,Moderate
+2023-03-07,236.0,True,Poor,238.878,Poor
+2023-03-08,278.0,True,Poor,295.68,Poor
+2023-03-09,150.0,True,Moderate,158.148,Moderate
+2023-03-10,220.0,True,Poor,228.39,Poor
+2023-03-11,248.0,True,Poor,252.942,Poor
+2023-03-12,313.0,True,Very Poor,306.104,Very Poor
+2023-03-13,304.0,True,Very Poor,304.006,Very Poor
+2023-03-14,253.0,True,Poor,258.614,Poor
+2023-03-15,321.0,True,Very Poor,339.314,Very Poor
+2023-03-16,326.0,True,Very Poor,304.546,Very Poor
+2023-03-17,254.0,True,Poor,245.804,Poor
+2023-03-18,154.0,True,Moderate,146.5,Moderate
+2023-03-19,218.0,True,Poor,227.064,Poor
+2023-03-20,308.0,True,Very Poor,271.924,Poor
+2023-03-21,114.0,True,Moderate,129.02,Moderate
+2023-03-22,216.0,True,Poor,216.858,Poor
+2023-03-23,242.0,True,Poor,244.526,Poor
+2023-03-24,292.0,True,Poor,285.356,Poor
+2023-03-25,101.0,True,Moderate,110.596,Moderate
+2023-03-26,215.0,True,Poor,224.432,Poor
+2023-03-27,163.0,True,Moderate,164.17,Moderate
+2023-03-28,161.0,True,Moderate,172.382,Moderate
+2023-03-29,248.0,True,Poor,250.892,Poor
+2023-03-30,244.0,True,Poor,239.94,Poor
+2023-03-31,122.0,True,Moderate,119.76,Moderate
+2023-04-01,121.0,True,Moderate,121.548,Moderate
+2023-04-02,188.0,True,Moderate,200.388,Poor
+2023-04-03,278.0,True,Poor,280.276,Poor
+2023-04-04,219.5,False,Poor,153.86,Moderate
+2023-04-05,161.0,True,Moderate,162.938,Moderate
+2023-04-06,161.0,True,Moderate,149.77,Moderate
+2023-04-07,127.0,True,Moderate,132.266,Moderate
+2023-04-08,167.0,True,Moderate,170.766,Moderate
+2023-04-09,273.0,True,Poor,283.59,Poor
+2023-04-10,267.0,True,Poor,273.15,Poor
+2023-04-11,291.0,True,Poor,298.524,Poor
+2023-04-12,215.0,True,Poor,214.906,Poor
+2023-04-13,233.0,True,Poor,235.68,Poor
+2023-04-14,263.0,True,Poor,256.166,Poor
+2023-04-15,246.0,True,Poor,268.494,Poor
+2023-04-16,317.0,True,Very Poor,307.832,Very Poor
+2023-04-17,288.0,True,Poor,296.972,Poor
+2023-04-18,311.0,True,Very Poor,314.858,Very Poor
+2023-04-19,259.0,True,Poor,246.476,Poor
+2023-04-20,152.0,True,Moderate,145.522,Moderate
+2023-04-21,118.0,True,Moderate,139.83,Moderate
+2023-04-22,159.0,True,Moderate,163.928,Moderate
+2023-04-23,153.0,True,Moderate,150.582,Moderate
+2023-04-24,214.0,True,Poor,212.554,Poor
+2023-04-25,126.0,True,Moderate,141.18,Moderate
+2023-04-26,248.0,True,Poor,241.638,Poor
+2023-04-27,243.0,True,Poor,243.498,Poor
+2023-04-28,187.0,True,Moderate,191.404,Moderate
+2023-04-29,228.0,True,Poor,220.472,Poor
+2023-04-30,131.0,True,Moderate,130.442,Moderate
+2023-05-01,112.0,True,Moderate,112.034,Moderate
+2023-05-02,103.0,True,Moderate,101.832,Moderate
+2023-05-03,117.0,True,Moderate,116.164,Moderate
+2023-05-04,151.0,True,Moderate,171.388,Moderate
+2023-05-05,223.0,True,Poor,222.102,Poor
+2023-05-06,310.0,True,Very Poor,301.976,Very Poor
+2023-05-07,260.0,True,Poor,238.874,Poor
+2023-05-08,143.0,True,Moderate,140.286,Moderate
+2023-05-09,253.0,True,Poor,250.94,Poor
+2023-05-10,212.0,True,Poor,211.06,Poor
+2023-05-11,341.0,True,Very Poor,345.338,Very Poor
+2023-05-12,316.0,True,Very Poor,313.2,Very Poor
+2023-05-13,249.0,True,Poor,265.816,Poor
+2023-05-14,316.0,True,Very Poor,296.552,Poor
+2023-05-15,150.0,True,Moderate,155.704,Moderate
+2023-05-16,285.0,True,Poor,332.224,Very Poor
+2023-05-17,350.0,True,Very Poor,333.058,Very Poor
+2023-05-18,174.0,True,Moderate,159.636,Moderate
+2023-05-19,171.0,True,Moderate,184.89,Moderate
+2023-05-20,195.0,True,Moderate,209.85,Poor
+2023-05-21,323.0,True,Very Poor,312.666,Very Poor
+2023-05-22,248.0,True,Poor,245.918,Poor
+2023-05-23,256.0,True,Poor,242.054,Poor
+2023-05-24,117.0,True,Moderate,126.622,Moderate
+2023-05-25,158.0,True,Moderate,160.854,Moderate
+2023-05-26,173.0,True,Moderate,168.544,Moderate
+2023-05-27,159.0,True,Moderate,161.81,Moderate
+2023-05-28,219.0,True,Poor,210.392,Poor
+2023-05-29,176.0,True,Moderate,178.908,Moderate
+2023-05-30,167.0,True,Moderate,165.418,Moderate
+2023-05-31,153.0,True,Moderate,150.098,Moderate
+2023-06-01,155.0,True,Moderate,157.406,Moderate
+2023-06-02,135.0,True,Moderate,146.09,Moderate
+2023-06-03,158.0,True,Moderate,181.568,Moderate
+2023-06-04,211.0,True,Poor,204.534,Poor
+2023-06-05,185.0,True,Moderate,197.806,Moderate
+2023-06-06,198.0,False,Moderate,277.292,Poor
+2023-06-07,211.0,True,Poor,228.034,Poor
+2023-06-08,159.0,True,Moderate,155.642,Moderate
+2023-06-09,181.0,True,Moderate,181.046,Moderate
+2023-06-10,157.0,True,Moderate,160.134,Moderate
+2023-06-11,153.0,True,Moderate,152.49,Moderate
+2023-06-12,183.0,False,Moderate,225.188,Poor
+2023-06-13,213.0,True,Poor,227.016,Poor
+2023-06-14,225.0,True,Poor,224.558,Poor
+2023-06-15,184.5,False,Moderate,182.38,Moderate
+2023-06-16,144.0,True,Moderate,143.542,Moderate
+2023-06-17,176.0,True,Moderate,169.736,Moderate
+2023-06-18,119.0,True,Moderate,117.4,Moderate
+2023-06-19,132.0,False,Moderate,137.774,Moderate
+2023-06-20,145.0,True,Moderate,135.296,Moderate
+2023-06-21,104.0,True,Moderate,111.654,Moderate
+2023-06-22,142.5,False,Moderate,179.594,Moderate
+2023-06-23,181.0,True,Moderate,174.55,Moderate
+2023-06-24,159.0,True,Moderate,146.2,Moderate
+2023-06-25,98.0,True,Satisfactory,104.424,Moderate
+2023-06-26,97.0,True,Satisfactory,106.506,Moderate
+2023-06-27,125.0,True,Moderate,125.248,Moderate
+2023-06-28,115.0,True,Moderate,125.298,Moderate
+2023-06-29,189.0,True,Moderate,182.316,Moderate
+2023-06-30,184.0,True,Moderate,184.572,Moderate
+2023-07-01,175.0,True,Moderate,170.27,Moderate
+2023-07-02,170.0,True,Moderate,175.032,Moderate
+2023-07-03,254.0,True,Poor,221.936,Poor
+2023-07-04,227.0,True,Poor,208.206,Poor
+2023-07-05,209.0,True,Poor,187.45,Moderate
+2023-07-06,203.0,True,Poor,195.81,Moderate
+2023-07-07,207.0,False,Poor,185.268,Moderate
+2023-07-08,211.0,True,Poor,183.988,Moderate
+2023-07-09,186.66666666666666,False,Moderate,90.384,Satisfactory
+2023-07-10,162.33333333333334,False,Moderate,101.63,Moderate
+2023-07-11,138.0,True,Moderate,128.512,Moderate
+2023-07-12,119.0,True,Moderate,118.596,Moderate
+2023-07-13,118.0,True,Moderate,117.304,Moderate
+2023-07-14,115.8,False,Moderate,115.906,Moderate
+2023-07-15,113.6,False,Moderate,115.878,Moderate
+2023-07-16,111.4,False,Moderate,115.93,Moderate
+2023-07-17,109.2,False,Moderate,115.036,Moderate
+2023-07-18,107.0,False,Moderate,119.502,Moderate
+2023-07-19,104.8,False,Moderate,119.68,Moderate
+2023-07-20,102.6,False,Moderate,124.04,Moderate
+2023-07-21,100.4,False,Moderate,139.546,Moderate
+2023-07-22,98.2,False,Satisfactory,98.312,Satisfactory
+2023-07-23,96.0,True,Satisfactory,95.866,Satisfactory
+2023-07-24,88.0,True,Satisfactory,89.214,Satisfactory
+2023-07-25,93.5,False,Satisfactory,95.04,Satisfactory
+2023-07-26,99.0,True,Satisfactory,100.314,Moderate
+2023-07-27,115.0,True,Moderate,123.192,Moderate
+2023-07-28,110.66666666666667,False,Moderate,82.59,Satisfactory
+2023-07-29,106.33333333333333,False,Moderate,70.36,Satisfactory
+2023-07-30,102.0,True,Moderate,122.798,Moderate
+2023-07-31,206.0,True,Poor,221.788,Poor
+2023-08-01,254.0,True,Poor,245.388,Poor
+2023-08-02,252.0,True,Poor,252.48,Poor
+2023-08-03,233.5,False,Poor,314.902,Very Poor
+2023-08-04,215.0,True,Poor,191.934,Moderate
+2023-08-05,191.0,False,Moderate,156.546,Moderate
+2023-08-06,167.0,True,Moderate,175.076,Moderate
+2023-08-07,194.0,True,Moderate,192.642,Moderate
+2023-08-08,207.7,False,Poor,211.048,Poor
+2023-08-09,221.4,False,Poor,242.15,Poor
+2023-08-10,235.1,False,Poor,195.716,Moderate
+2023-08-11,248.8,False,Poor,321.578,Very Poor
+2023-08-12,262.5,False,Poor,316.97,Very Poor
+2023-08-13,276.2,False,Poor,285.918,Poor
+2023-08-14,289.9,False,Poor,306.244,Very Poor
+2023-08-15,303.6,False,Very Poor,212.456,Poor
+2023-08-16,317.3,False,Very Poor,336.248,Very Poor
+2023-08-17,331.0,True,Very Poor,319.8,Very Poor
+2023-08-18,322.0,True,Very Poor,311.4,Very Poor
+2023-08-19,225.0,True,Poor,195.178,Moderate
+2023-08-20,168.0,True,Moderate,155.736,Moderate
+2023-08-21,127.0,True,Moderate,140.576,Moderate
+2023-08-22,261.0,True,Poor,245.846,Poor
+2023-08-23,85.0,True,Satisfactory,87.838,Satisfactory
+2023-08-24,120.0,True,Moderate,150.112,Moderate
+2023-08-25,260.0,False,Poor,337.876,Very Poor
+2023-08-26,400.0,True,Very Poor,406.69,Severe
+2023-08-27,395.0,False,Very Poor,418.736,Severe
+2023-08-28,390.0,False,Very Poor,365.54,Very Poor
+2023-08-29,385.0,True,Very Poor,368.026,Very Poor
+2023-08-30,356.0,True,Very Poor,348.232,Very Poor
+2023-08-31,347.0,True,Very Poor,336.67,Very Poor
+2023-09-01,340.0,True,Very Poor,327.776,Very Poor
+2023-09-02,305.0,False,Very Poor,214.014,Poor
+2023-09-03,270.0,True,Poor,262.182,Poor
+2023-09-04,253.0,True,Poor,228.704,Poor
+2023-09-05,150.0,True,Moderate,148.59,Moderate
+2023-09-06,122.0,True,Moderate,124.166,Moderate
+2023-09-07,129.0,True,Moderate,135.292,Moderate
+2023-09-08,111.0,True,Moderate,102.636,Moderate
+2023-09-09,61.0,True,Satisfactory,69.014,Satisfactory
+2023-09-10,92.0,True,Satisfactory,83.048,Satisfactory
+2023-09-11,79.0,True,Satisfactory,94.856,Satisfactory
+2023-09-12,140.0,True,Moderate,146.86,Moderate
+2023-09-13,117.0,True,Moderate,120.11,Moderate
+2023-09-14,121.0,True,Moderate,131.628,Moderate
+2023-09-15,106.0,True,Moderate,105.832,Moderate
+2023-09-16,96.0,True,Satisfactory,94.56,Satisfactory
+2023-09-17,54.0,True,Satisfactory,55.466,Satisfactory
+2023-09-18,51.0,True,Satisfactory,55.348,Satisfactory
+2023-09-19,76.0,True,Satisfactory,83.574,Satisfactory
+2023-09-20,147.0,True,Moderate,163.322,Moderate
+2023-09-21,187.0,True,Moderate,176.548,Moderate
+2023-09-22,177.0,True,Moderate,167.52,Moderate
+2023-09-23,99.0,True,Satisfactory,104.18,Moderate
+2023-09-24,200.0,True,Moderate,203.9,Poor
+2023-09-25,146.0,True,Moderate,153.434,Moderate
+2023-09-26,214.0,True,Poor,210.732,Poor
+2023-09-27,178.0,True,Moderate,179.284,Moderate
+2023-09-28,161.0,True,Moderate,164.008,Moderate
+2023-09-29,174.0,True,Moderate,182.378,Moderate
+2023-09-30,197.0,True,Moderate,194.236,Moderate
+2023-10-01,165.0,True,Moderate,163.084,Moderate
+2023-10-02,153.0,True,Moderate,154.102,Moderate
+2023-10-03,176.0,True,Moderate,176.562,Moderate
+2023-10-04,177.0,True,Moderate,185.146,Moderate
+2023-10-05,201.0,True,Poor,207.044,Poor
+2023-10-06,223.0,True,Poor,243.994,Poor
+2023-10-07,270.0,True,Poor,264.336,Poor
+2023-10-08,176.0,True,Moderate,189.234,Moderate
+2023-10-09,210.0,True,Poor,211.214,Poor
+2023-10-10,206.5,False,Poor,228.878,Poor
+2023-10-11,203.0,True,Poor,198.582,Moderate
+2023-10-12,243.0,True,Poor,271.746,Poor
+2023-10-13,286.0,True,Poor,308.134,Very Poor
+2023-10-14,261.0,True,Poor,291.36,Poor
+2023-10-15,335.0,True,Very Poor,326.568,Very Poor
+2023-10-16,284.0,True,Poor,259.156,Poor
+2023-10-17,274.0,False,Poor,148.58,Moderate
+2023-10-18,264.0,False,Poor,185.75,Moderate
+2023-10-19,254.0,False,Poor,193.01,Moderate
+2023-10-20,244.0,True,Poor,253.74,Poor
+2023-10-21,273.0,True,Poor,301.028,Very Poor
+2023-10-22,266.0,False,Poor,400.868,Severe
+2023-10-23,259.0,False,Poor,255.948,Poor
+2023-10-24,252.0,True,Poor,259.876,Poor
+2023-10-25,281.5,False,Poor,274.066,Poor
+2023-10-26,311.0,True,Very Poor,320.172,Very Poor
+2023-10-27,329.0,True,Very Poor,334.27,Very Poor
+2023-10-28,355.0,True,Very Poor,357.57,Very Poor
+2023-10-29,370.0,False,Very Poor,344.952,Very Poor
+2023-10-30,385.0,True,Very Poor,399.198,Very Poor
+2023-10-31,422.0,True,Severe,425.086,Severe
+2023-11-01,416.0,True,Severe,415.664,Severe
+2023-11-02,449.0,True,Severe,454.792,Severe
+2023-11-03,461.0,False,Severe,446.714,Severe
+2023-11-04,473.0,True,Severe,469.492,Severe
+2023-11-05,455.5,False,Severe,441.484,Severe
+2023-11-06,438.0,True,Severe,442.11,Severe
+2023-11-07,447.0,True,Severe,446.376,Severe
+2023-11-08,449.0,True,Severe,447.03,Severe
+2023-11-09,450.0,True,Severe,451.5,Severe
+2023-11-10,369.0,False,Very Poor,326.328,Very Poor
+2023-11-11,288.0,True,Poor,279.334,Poor
+2023-11-12,286.0,True,Poor,301.546,Very Poor
+2023-11-13,382.0,True,Very Poor,408.848,Severe
+2023-11-14,445.0,True,Severe,436.022,Severe
+2023-11-15,427.0,True,Severe,424.904,Severe
+2023-11-16,433.0,True,Severe,435.48,Severe
+2023-11-17,406.0,True,Severe,407.372,Severe
+2023-11-18,315.0,True,Very Poor,314.246,Very Poor
+2023-11-19,351.0,True,Very Poor,337.504,Very Poor
+2023-11-20,374.0,True,Very Poor,369.494,Very Poor
+2023-11-21,371.0,True,Very Poor,371.644,Very Poor
+2023-11-22,377.0,True,Very Poor,373.372,Very Poor
+2023-11-23,396.0,True,Very Poor,395.918,Very Poor
+2023-11-24,438.0,True,Severe,440.092,Severe
+2023-11-25,438.0,False,Severe,406.896,Severe
+2023-11-26,438.0,True,Severe,432.852,Severe
+2023-11-27,387.0,True,Very Poor,381.018,Very Poor
+2023-11-28,335.0,True,Very Poor,329.306,Very Poor
+2023-11-29,349.0,True,Very Poor,356.406,Very Poor
+2023-11-30,414.0,True,Severe,411.62,Severe
+2023-12-01,400.0,True,Very Poor,399.796,Very Poor
+2023-12-02,359.0,True,Very Poor,345.546,Very Poor
+2023-12-03,363.0,True,Very Poor,355.15,Very Poor
+2023-12-04,313.0,True,Very Poor,317.536,Very Poor
+2023-12-05,317.0,True,Very Poor,307.766,Very Poor
+2023-12-06,303.0,True,Very Poor,304.77,Very Poor
+2023-12-07,373.0,True,Very Poor,370.65,Very Poor
+2023-12-08,345.0,True,Very Poor,337.646,Very Poor
+2023-12-09,321.0,True,Very Poor,319.706,Very Poor
+2023-12-10,308.0,True,Very Poor,300.238,Very Poor
+2023-12-11,316.0,True,Very Poor,323.212,Very Poor
+2023-12-12,395.0,True,Very Poor,399.526,Very Poor
+2023-12-13,417.0,True,Severe,414.106,Severe
+2023-12-14,318.0,True,Very Poor,321.606,Very Poor
+2023-12-15,332.0,True,Very Poor,341.796,Very Poor
+2023-12-16,398.0,True,Very Poor,398.132,Very Poor
+2023-12-17,372.0,True,Very Poor,368.446,Very Poor
+2023-12-18,356.0,True,Very Poor,336.252,Very Poor
+2023-12-19,305.0,True,Very Poor,296.666,Poor
+2023-12-20,311.0,True,Very Poor,318.91,Very Poor
+2023-12-21,389.0,True,Very Poor,393.044,Very Poor
+2023-12-22,449.0,True,Severe,451.298,Severe
+2023-12-23,469.0,True,Severe,459.868,Severe
+2023-12-24,441.0,True,Severe,444.912,Severe
+2023-12-25,396.0,True,Very Poor,393.38,Very Poor
+2023-12-26,396.0,True,Very Poor,399.468,Very Poor
+2023-12-27,460.0,True,Severe,456.064,Severe
+2023-12-28,424.0,True,Severe,415.126,Severe
+2023-12-29,442.0,True,Severe,434.846,Severe
+2023-12-30,438.0,True,Severe,427.774,Severe
+2023-12-31,408.0,True,Severe,400.676,Severe
+2024-01-01,353.0,True,Very Poor,351.462,Very Poor
+2024-01-02,366.0,True,Very Poor,350.368,Very Poor
+2024-01-03,360.0,True,Very Poor,388.102,Very Poor
+2024-01-04,427.0,True,Severe,402.244,Severe
+2024-01-05,382.0,True,Very Poor,380.618,Very Poor
+2024-01-06,372.0,True,Very Poor,378.16,Very Poor
+2024-01-07,372.0,True,Very Poor,364.448,Very Poor
+2024-01-08,406.0,True,Severe,431.348,Severe
+2024-01-09,415.0,True,Severe,337.568,Very Poor
+2024-01-10,320.0,True,Very Poor,330.614,Very Poor
+2024-01-11,380.0,True,Very Poor,370.542,Very Poor
+2024-01-12,388.0,True,Very Poor,394.682,Very Poor
+2024-01-13,445.0,True,Severe,456.366,Severe
+2024-01-14,467.0,True,Severe,432.95,Severe
+2024-01-15,401.0,True,Severe,359.594,Very Poor
+2024-01-16,420.0,True,Severe,423.184,Severe
+2024-01-17,387.0,True,Very Poor,366.758,Very Poor
+2024-01-18,370.0,True,Very Poor,340.952,Very Poor
+2024-01-19,375.0,True,Very Poor,344.052,Very Poor
+2024-01-20,338.0,True,Very Poor,347.106,Very Poor
+2024-01-21,395.0,True,Very Poor,357.812,Very Poor
+2024-01-22,361.0,True,Very Poor,376.032,Very Poor
+2024-01-23,397.0,True,Very Poor,380.844,Very Poor
+2024-01-24,419.0,True,Severe,384.6,Very Poor
+2024-01-25,390.0,True,Very Poor,384.586,Very Poor
+2024-01-26,467.0,True,Severe,453.754,Severe
+2024-01-27,391.0,True,Very Poor,350.984,Very Poor
+2024-01-28,424.0,True,Severe,417.988,Severe
+2024-01-29,373.0,True,Very Poor,365.1,Very Poor
+2024-01-30,415.0,True,Severe,382.21,Very Poor
+2024-01-31,436.0,True,Severe,367.858,Very Poor
+2024-02-01,189.0,True,Moderate,138.624,Moderate
+2024-02-02,223.0,True,Poor,218.218,Poor
+2024-02-03,215.0,True,Poor,283.082,Poor
+2024-02-04,321.0,True,Very Poor,295.36,Poor
+2024-02-05,203.0,True,Poor,197.694,Moderate
+2024-02-06,185.0,True,Moderate,209.268,Poor
+2024-02-07,242.0,True,Poor,212.79,Poor
+2024-02-08,170.0,True,Moderate,176.506,Moderate
+2024-02-09,187.0,True,Moderate,241.556,Poor
+2024-02-10,366.0,True,Very Poor,355.646,Very Poor
+2024-02-11,340.0,True,Very Poor,334.974,Very Poor
+2024-02-12,329.0,True,Very Poor,350.382,Very Poor
+2024-02-13,383.0,True,Very Poor,404.594,Severe
+2024-02-14,388.0,True,Very Poor,333.668,Very Poor
+2024-02-15,303.0,True,Very Poor,313.2,Very Poor
+2024-02-16,307.0,True,Very Poor,288.212,Poor
+2024-02-17,325.0,True,Very Poor,307.26,Very Poor
+2024-02-18,374.0,True,Very Poor,349.502,Very Poor
+2024-02-19,235.0,True,Poor,228.812,Poor
+2024-02-20,220.0,True,Poor,259.106,Poor
+2024-02-21,284.0,True,Poor,233.246,Poor
+2024-02-22,188.0,True,Moderate,205.532,Poor
+2024-02-23,158.0,True,Moderate,174.006,Moderate
+2024-02-24,248.0,True,Poor,304.168,Very Poor
+2024-02-25,236.0,True,Poor,256.0,Poor
+2024-02-26,229.0,True,Poor,254.242,Poor
+2024-02-27,207.0,True,Poor,172.748,Moderate
+2024-02-28,146.0,True,Moderate,158.7,Moderate
+2024-02-29,143.0,True,Moderate,165.358,Moderate
+2024-03-01,268.0,True,Poor,250.418,Poor
+2024-03-02,116.0,True,Moderate,101.812,Moderate
+2024-03-03,116.0,True,Moderate,148.22,Moderate
+2024-03-04,140.0,True,Moderate,151.05,Moderate
+2024-03-05,145.0,True,Moderate,137.884,Moderate
+2024-03-06,130.0,True,Moderate,158.914,Moderate
+2024-03-07,224.0,True,Poor,221.67,Poor
+2024-03-08,162.0,True,Moderate,155.26,Moderate
+2024-03-09,137.0,True,Moderate,152.576,Moderate
+2024-03-10,188.0,True,Moderate,225.232,Poor
+2024-03-11,191.53846153846155,False,Moderate,213.576,Poor
+2024-03-12,195.07692307692307,False,Moderate,217.57,Poor
+2024-03-13,198.6153846153846,False,Moderate,207.41,Poor
+2024-03-14,202.15384615384616,False,Poor,195.396,Moderate
+2024-03-15,205.69230769230768,False,Poor,169.612,Moderate
+2024-03-16,209.23076923076923,False,Poor,189.684,Moderate
+2024-03-17,212.76923076923077,False,Poor,201.112,Poor
+2024-03-18,216.30769230769232,False,Poor,196.46,Moderate
+2024-03-19,219.84615384615384,False,Poor,216.53,Poor
+2024-03-20,223.3846153846154,False,Poor,217.92,Poor
+2024-03-21,226.9230769230769,False,Poor,208.968,Poor
+2024-03-22,230.46153846153845,False,Poor,300.598,Very Poor
+2024-03-23,234.0,True,Poor,216.58,Poor
+2024-03-24,266.0,True,Poor,285.578,Poor
+2024-03-25,335.0,True,Very Poor,378.488,Very Poor
+2024-03-26,280.6666666666667,False,Poor,250.254,Poor
+2024-03-27,226.33333333333331,False,Poor,185.05,Moderate
+2024-03-28,172.0,True,Moderate,193.184,Moderate
+2024-03-29,195.0,True,Moderate,213.584,Poor
+2024-03-30,212.0,True,Poor,237.452,Poor
+2024-03-31,329.0,True,Very Poor,327.634,Very Poor
+2024-04-01,243.0,False,Poor,127.62,Moderate
+2024-04-02,157.0,True,Moderate,143.6,Moderate
+2024-04-03,201.0,True,Poor,229.676,Poor
+2024-04-04,245.0,True,Poor,230.504,Poor
+2024-04-05,243.0,True,Poor,214.472,Poor
+2024-04-06,203.0,True,Poor,209.57,Poor
+2024-04-07,213.0,True,Poor,205.93,Poor
+2024-04-08,249.0,True,Poor,257.14,Poor
+2024-04-09,308.0,True,Very Poor,305.096,Very Poor
+2024-04-10,279.0,True,Poor,263.024,Poor
+2024-04-11,323.0,True,Very Poor,315.878,Very Poor
+2024-04-12,340.0,True,Very Poor,323.226,Very Poor
+2024-04-13,302.4,False,Very Poor,359.146,Very Poor
+2024-04-14,264.8,False,Poor,262.956,Poor
+2024-04-15,227.2,False,Poor,231.978,Poor
+2024-04-16,189.6,False,Moderate,158.022,Moderate
+2024-04-17,152.0,True,Moderate,184.822,Moderate
+2024-04-18,197.0,True,Moderate,208.59,Poor
+2024-04-19,207.6,False,Poor,205.174,Poor
+2024-04-20,218.2,False,Poor,180.298,Moderate
+2024-04-21,228.8,False,Poor,183.38,Moderate
+2024-04-22,239.4,False,Poor,187.9,Moderate
+2024-04-23,250.0,True,Poor,246.204,Poor
+2024-04-24,221.0,True,Poor,203.434,Poor
+2024-04-25,243.0,True,Poor,241.74,Poor
+2024-04-26,253.0,True,Poor,254.706,Poor
+2024-04-27,271.6666666666667,False,Poor,243.338,Poor
+2024-04-28,290.3333333333333,False,Poor,227.536,Poor
+2024-04-29,309.0,True,Very Poor,316.244,Very Poor
+2024-04-30,214.0,True,Poor,206.594,Poor
+2024-05-01,237.0,True,Poor,213.234,Poor
+2024-05-02,188.0,True,Moderate,212.994,Poor
+2024-05-03,279.0,True,Poor,304.79,Very Poor
+2024-05-04,297.0,True,Poor,314.128,Very Poor
+2024-05-05,380.0,True,Very Poor,349.848,Very Poor
+2024-05-06,278.0,True,Poor,298.998,Poor
+2024-05-07,404.0,True,Severe,394.806,Very Poor
+2024-05-08,266.0,True,Poor,239.058,Poor
+2024-05-09,208.0,True,Poor,199.008,Moderate
+2024-05-10,211.0,False,Poor,299.832,Poor
+2024-05-11,214.0,False,Poor,210.696,Poor
+2024-05-12,217.0,True,Poor,229.22,Poor
+2024-05-13,271.0,True,Poor,305.768,Very Poor
+2024-05-14,302.0,True,Very Poor,287.61,Poor
+2024-05-15,347.0,True,Very Poor,336.756,Very Poor
+2024-05-16,314.0,True,Very Poor,327.05,Very Poor
+2024-05-17,358.0,True,Very Poor,358.632,Very Poor
+2024-05-18,322.0,False,Very Poor,333.304,Very Poor
+2024-05-19,286.0,True,Poor,269.084,Poor
+2024-05-20,297.0,True,Poor,310.934,Very Poor
+2024-05-21,284.0,True,Poor,230.586,Poor
+2024-05-22,205.0,True,Poor,214.26,Poor
+2024-05-23,155.0,True,Moderate,148.166,Moderate
+2024-05-24,166.5,False,Moderate,148.686,Moderate
+2024-05-25,178.0,True,Moderate,220.454,Poor
+2024-05-26,220.0,True,Poor,253.972,Poor
+2024-05-27,317.0,True,Very Poor,341.92,Very Poor
+2024-05-28,342.0,True,Very Poor,302.638,Very Poor
+2024-05-29,339.0,True,Very Poor,333.384,Very Poor
+2024-05-30,341.0,True,Very Poor,297.274,Poor
+2024-05-31,234.0,True,Poor,233.29,Poor
+2024-06-01,316.0,True,Very Poor,291.596,Poor
+2024-06-02,212.0,True,Poor,145.482,Moderate
+2024-06-03,237.0,False,Poor,252.244,Poor
+2024-06-04,262.0,True,Poor,275.546,Poor
+2024-06-05,392.0,True,Very Poor,335.828,Very Poor
+2024-06-06,221.0,True,Poor,212.588,Poor
+2024-06-07,268.0,True,Poor,250.558,Poor
+2024-06-08,291.0,True,Poor,276.106,Poor
+2024-06-09,186.0,True,Moderate,169.112,Moderate
+2024-06-10,186.0,True,Moderate,176.122,Moderate
+2024-06-11,273.0,True,Poor,279.304,Poor
+2024-06-12,278.0,True,Poor,265.546,Poor
+2024-06-13,288.0,False,Poor,235.372,Poor
+2024-06-14,298.0,True,Poor,325.642,Very Poor
+2024-06-15,286.0,True,Poor,263.728,Poor
+2024-06-16,301.0,False,Very Poor,245.236,Poor
+2024-06-17,316.0,False,Very Poor,243.878,Poor
+2024-06-18,331.0,False,Very Poor,274.372,Poor
+2024-06-19,346.0,True,Very Poor,315.552,Very Poor
+2024-06-20,226.0,True,Poor,172.928,Moderate
+2024-06-21,205.0,True,Poor,207.446,Poor
+2024-06-22,230.0,True,Poor,245.276,Poor
+2024-06-23,142.0,True,Moderate,153.458,Moderate
+2024-06-24,150.0,True,Moderate,159.004,Moderate
+2024-06-25,143.0,True,Moderate,164.06,Moderate
+2024-06-26,151.28571428571428,False,Moderate,159.246,Moderate
+2024-06-27,159.57142857142858,False,Moderate,165.696,Moderate
+2024-06-28,167.85714285714286,False,Moderate,213.196,Poor
+2024-06-29,176.14285714285714,False,Moderate,211.412,Poor
+2024-06-30,184.42857142857144,False,Moderate,217.41,Poor
+2024-07-01,192.71428571428572,False,Moderate,243.928,Poor
+2024-07-02,201.0,True,Poor,186.954,Moderate
+2024-07-03,135.0,True,Moderate,144.178,Moderate
+2024-07-04,126.0,False,Moderate,111.074,Moderate
+2024-07-05,117.0,False,Moderate,101.384,Moderate
+2024-07-06,108.0,True,Moderate,103.342,Moderate
+2024-07-07,83.0,True,Satisfactory,99.544,Satisfactory
+2024-07-08,87.0,True,Satisfactory,105.054,Moderate
+2024-07-09,106.0,True,Moderate,151.046,Moderate
+2024-07-10,167.0,True,Moderate,164.982,Moderate
+2024-07-11,155.0,True,Moderate,192.268,Moderate
+2024-07-12,176.0,True,Moderate,195.098,Moderate
+2024-07-13,184.0,True,Moderate,174.61,Moderate
+2024-07-14,147.0,True,Moderate,163.226,Moderate
+2024-07-15,135.0,True,Moderate,155.254,Moderate
+2024-07-16,191.0,True,Moderate,141.748,Moderate
+2024-07-17,129.0,True,Moderate,144.84,Moderate
+2024-07-18,131.0,True,Moderate,131.926,Moderate
+2024-07-19,174.0,True,Moderate,212.292,Poor
+2024-07-20,138.0,True,Moderate,158.848,Moderate
+2024-07-21,123.0,True,Moderate,132.276,Moderate
+2024-07-22,102.0,True,Moderate,144.262,Moderate
+2024-07-23,130.0,True,Moderate,138.33,Moderate
+2024-07-24,131.0,True,Moderate,168.852,Moderate
+2024-07-25,136.0,True,Moderate,101.492,Moderate
+2024-07-26,106.0,True,Moderate,136.828,Moderate
+2024-07-27,127.0,True,Moderate,98.228,Satisfactory
+2024-07-28,109.0,True,Moderate,85.934,Satisfactory
+2024-07-29,116.0,True,Moderate,78.336,Satisfactory
+2024-07-30,93.0,True,Satisfactory,93.818,Satisfactory
+2024-07-31,117.0,True,Moderate,105.39,Moderate
+2024-08-01,113.0,True,Moderate,69.822,Satisfactory
+2024-08-02,108.0,False,Moderate,75.728,Satisfactory
+2024-08-03,103.0,False,Moderate,93.64,Satisfactory
+2024-08-04,98.0,True,Satisfactory,95.102,Satisfactory
+2024-08-05,89.0,True,Satisfactory,102.188,Moderate
+2024-08-06,99.0,True,Satisfactory,143.938,Moderate
+2024-08-07,119.0,True,Moderate,94.148,Satisfactory
+2024-08-08,68.0,True,Satisfactory,70.894,Satisfactory
+2024-08-09,73.0,True,Satisfactory,90.42,Satisfactory
+2024-08-10,84.0,True,Satisfactory,122.042,Moderate
+2024-08-11,82.0,True,Satisfactory,94.57,Satisfactory
+2024-08-12,76.0,True,Satisfactory,105.9,Moderate
+2024-08-13,85.0,True,Satisfactory,95.87,Satisfactory
+2024-08-14,116.0,True,Moderate,137.104,Moderate
+2024-08-15,125.0,True,Moderate,119.97,Moderate
+2024-08-16,127.0,True,Moderate,133.328,Moderate
+2024-08-17,156.0,True,Moderate,201.356,Poor
+2024-08-18,207.0,True,Poor,192.52,Moderate
+2024-08-19,131.0,True,Moderate,138.29,Moderate
+2024-08-20,126.0,True,Moderate,129.41,Moderate
+2024-08-21,115.0,True,Moderate,136.476,Moderate
+2024-08-22,185.0,True,Moderate,231.512,Poor
+2024-08-23,222.0,True,Poor,164.542,Moderate
+2024-08-24,160.0,True,Moderate,165.368,Moderate
+2024-08-25,143.0,True,Moderate,131.818,Moderate
+2024-08-26,102.0,True,Moderate,110.484,Moderate
+2024-08-27,89.0,True,Satisfactory,96.904,Satisfactory
+2024-08-28,109.0,True,Moderate,132.48,Moderate
+2024-08-29,71.0,True,Satisfactory,107.104,Moderate
+2024-08-30,134.0,True,Moderate,193.212,Moderate
+2024-08-31,229.0,True,Poor,236.618,Poor
+2024-09-01,269.0,True,Poor,262.304,Poor
+2024-09-02,170.0,True,Moderate,130.008,Moderate
+2024-09-03,98.0,True,Satisfactory,136.648,Moderate
+2024-09-04,147.0,True,Moderate,121.346,Moderate
+2024-09-05,111.0,True,Moderate,126.814,Moderate
+2024-09-06,140.0,True,Moderate,115.342,Moderate
+2024-09-07,91.0,True,Satisfactory,111.906,Moderate
+2024-09-08,162.0,True,Moderate,189.156,Moderate
+2024-09-09,242.0,True,Poor,200.802,Poor
+2024-09-10,125.0,True,Moderate,140.402,Moderate
+2024-09-11,128.2,False,Moderate,137.63,Moderate
+2024-09-12,131.4,False,Moderate,127.016,Moderate
+2024-09-13,134.6,False,Moderate,131.362,Moderate
+2024-09-14,137.8,False,Moderate,125.906,Moderate
+2024-09-15,141.0,True,Moderate,213.088,Poor
+2024-09-16,329.0,True,Very Poor,334.074,Very Poor
+2024-09-17,382.0,True,Very Poor,314.972,Very Poor
+2024-09-18,235.0,False,Poor,96.65,Satisfactory
+2024-09-19,88.0,True,Satisfactory,111.882,Moderate
+2024-09-20,124.0,True,Moderate,199.73,Moderate
+2024-09-21,257.0,True,Poor,339.426,Very Poor
+2024-09-22,413.0,True,Severe,434.466,Severe
+2024-09-23,401.6666666666667,False,Severe,430.438,Severe
+2024-09-24,390.3333333333333,False,Very Poor,423.538,Severe
+2024-09-25,379.0,True,Very Poor,328.938,Very Poor
+2024-09-26,105.0,True,Moderate,97.51,Satisfactory
+2024-09-27,95.0,True,Satisfactory,98.42,Satisfactory
+2024-09-28,82.0,True,Satisfactory,164.296,Moderate
+2024-09-29,153.0,False,Moderate,195.818,Moderate
+2024-09-30,224.0,False,Poor,332.122,Very Poor
+2024-10-01,295.0,True,Poor,340.576,Very Poor
+2024-10-02,400.0,True,Very Poor,410.146,Severe
+2024-10-03,380.0,True,Very Poor,427.744,Severe
+2024-10-04,400.0,True,Very Poor,424.306,Severe
+2024-10-05,390.0,True,Very Poor,368.844,Very Poor
+2024-10-06,383.0,True,Very Poor,396.256,Very Poor
+2024-10-07,329.0,True,Very Poor,306.85,Very Poor
+2024-10-08,375.0,True,Very Poor,404.908,Severe
+2024-10-09,371.0,True,Very Poor,310.334,Very Poor
+2024-10-10,314.0,True,Very Poor,328.218,Very Poor
+2024-10-11,330.0,True,Very Poor,332.504,Very Poor
+2024-10-12,376.0,True,Very Poor,394.158,Very Poor
+2024-10-13,374.0,True,Very Poor,367.62,Very Poor
+2024-10-14,313.0,True,Very Poor,352.28,Very Poor
+2024-10-15,424.0,True,Severe,380.266,Very Poor
+2024-10-16,429.0,True,Severe,381.24,Very Poor
+2024-10-17,390.5,False,Very Poor,348.066,Very Poor
+2024-10-18,352.0,True,Very Poor,365.906,Very Poor
+2024-10-19,450.0,True,Severe,363.324,Very Poor
+2024-10-20,374.0,True,Very Poor,372.88,Very Poor
+2024-10-21,359.0,True,Very Poor,349.206,Very Poor
+2024-10-22,417.0,True,Severe,347.856,Very Poor
+2024-10-23,411.0,True,Severe,357.594,Very Poor
+2024-10-24,363.0,True,Very Poor,358.562,Very Poor
+2024-10-25,401.0,True,Severe,346.56,Very Poor
+2024-10-26,370.0,True,Very Poor,400.592,Severe
+2024-10-27,394.0,True,Very Poor,355.276,Very Poor
+2024-10-28,343.0,True,Very Poor,332.6,Very Poor
+2024-10-29,311.0,True,Very Poor,310.398,Very Poor
+2024-10-30,409.0,True,Severe,412.83,Severe
+2024-10-31,401.0,True,Severe,379.464,Very Poor
+2024-11-01,389.0,True,Very Poor,397.87,Very Poor
+2024-11-02,401.0,True,Severe,434.894,Severe
+2024-11-03,436.0,True,Severe,445.336,Severe
+2024-11-04,429.0,True,Severe,446.168,Severe
+2024-11-05,428.0,True,Severe,426.932,Severe
+2024-11-06,431.0,False,Severe,418.384,Severe
+2024-11-07,434.0,True,Severe,441.5,Severe
+2024-11-08,413.0,True,Severe,405.582,Severe
+2024-11-09,377.0,True,Very Poor,357.27,Very Poor
+2024-11-10,353.0,True,Very Poor,357.926,Very Poor
+2024-11-11,385.0,True,Very Poor,395.472,Very Poor
+2024-11-12,405.0,True,Severe,380.286,Very Poor
+2024-11-13,460.0,True,Severe,464.184,Severe
+2024-11-14,459.0,True,Severe,442.654,Severe
+2024-11-15,450.0,True,Severe,455.926,Severe
+2024-11-16,436.0,True,Severe,462.602,Severe
+2024-11-17,466.0,True,Severe,460.918,Severe
+2024-11-18,498.0,True,Severe,467.816,Severe
+2024-11-19,479.0,True,Severe,451.03,Severe
+2024-11-20,447.0,True,Severe,413.25,Severe
+2024-11-21,400.0,True,Very Poor,378.836,Very Poor
+2024-11-22,435.0,True,Severe,429.474,Severe
+2024-11-23,437.0,True,Severe,431.794,Severe
+2024-11-24,371.0,True,Very Poor,325.1,Very Poor
+2024-11-25,403.0,True,Severe,393.09,Very Poor
+2024-11-26,356.0,True,Very Poor,334.664,Very Poor
+2024-11-27,333.0,True,Very Poor,328.906,Very Poor
+2024-11-28,370.0,True,Very Poor,382.168,Very Poor
+2024-11-29,389.0,True,Very Poor,399.092,Very Poor
+2024-11-30,379.0,True,Very Poor,393.352,Very Poor
+2024-12-01,306.0,True,Very Poor,330.656,Very Poor
+2024-12-02,311.0,True,Very Poor,315.24,Very Poor
+2024-12-03,311.0,True,Very Poor,316.75,Very Poor
+2024-12-04,211.0,True,Poor,191.036,Moderate
+2024-12-05,190.0,True,Moderate,207.334,Poor
+2024-12-06,248.0,True,Poor,258.046,Poor
+2024-12-07,310.0,True,Very Poor,326.088,Very Poor
+2024-12-08,374.0,True,Very Poor,368.52,Very Poor
+2024-12-09,219.0,True,Poor,169.816,Moderate
+2024-12-10,264.0,True,Poor,236.15,Poor
+2024-12-11,203.0,True,Poor,220.556,Poor
+2024-12-12,318.0,True,Very Poor,327.294,Very Poor
+2024-12-13,286.0,True,Poor,249.1,Poor
+2024-12-14,234.0,True,Poor,239.924,Poor
+2024-12-15,335.0,True,Very Poor,338.312,Very Poor
+2024-12-16,437.0,True,Severe,448.582,Severe
+2024-12-17,475.0,True,Severe,458.996,Severe
+2024-12-18,484.0,True,Severe,454.1,Severe
+2024-12-19,472.0,True,Severe,453.614,Severe
+2024-12-20,455.0,True,Severe,428.232,Severe
+2024-12-21,389.0,True,Very Poor,396.07,Very Poor
+2024-12-22,448.0,True,Severe,428.304,Severe
+2024-12-23,442.0,True,Severe,415.61,Severe
+2024-12-24,388.0,True,Very Poor,345.386,Very Poor
+2024-12-25,361.0,True,Very Poor,343.882,Very Poor
+2024-12-26,378.0,True,Very Poor,399.574,Very Poor
+2024-12-27,391.0,True,Very Poor,318.402,Very Poor
+2024-12-28,186.0,True,Moderate,250.412,Poor
+2024-12-29,303.0,True,Very Poor,288.374,Poor
+2024-12-30,250.0,True,Poor,240.684,Poor
+2024-12-31,398.0,True,Very Poor,376.186,Very Poor

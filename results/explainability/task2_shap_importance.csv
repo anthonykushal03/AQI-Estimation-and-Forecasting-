@@ -1,0 +1,33 @@
+Setup,Feature,Mean |SHAP| (AQI units)
+Strict,AQI_today,65.602
+Strict,AT (°C) yesterday,10.501
+Strict,AQI_mean_7d,10.005
+Strict,Month,6.762
+Strict,AQI_4d_ago,3.838
+Strict,PM2.5 (µg/m³) yesterday,3.806
+Strict,AQI_1d_ago,3.005
+Strict,PM10 (µg/m³) yesterday,2.851
+Strict,AQI_2d_ago,2.73
+Strict,NO2 (µg/m³) yesterday,2.728
+Strict,WS (m/s) yesterday,2.562
+Strict,CO (mg/m³) yesterday,2.341
+Strict,RH (%) yesterday,2.331
+Strict,AQI_5d_ago,2.211
+Strict,AQI_6d_ago,1.518
+Strict,AQI_3d_ago,1.318
+Same-day,PM10 (µg/m³) today,56.986
+Same-day,PM2.5 (µg/m³) today,27.915
+Same-day,WS (m/s) today,8.067
+Same-day,AT (°C) today,5.84
+Same-day,AQI_4d_ago,5.518
+Same-day,AQI_today,5.445
+Same-day,NO2 (µg/m³) today,5.034
+Same-day,AQI_mean_7d,3.434
+Same-day,AQI_5d_ago,2.992
+Same-day,AQI_2d_ago,2.909
+Same-day,AQI_6d_ago,2.826
+Same-day,Month,1.811
+Same-day,RH (%) today,1.271
+Same-day,CO (mg/m³) today,1.221
+Same-day,AQI_1d_ago,1.152
+Same-day,AQI_3d_ago,0.859

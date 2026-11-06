@@ -1,0 +1,5 @@
+Variable,Values used,Correlation with AQI
+Toluene (µg/m³),measured only,0.3742
+Toluene (µg/m³),after interpolation,0.3339
+Benzene (µg/m³),measured only,0.5975
+Benzene (µg/m³),after interpolation,0.0344

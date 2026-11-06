@@ -1,0 +1,11 @@
+Experiment,Setup,Model,RMSE,MAE,R2,Category accuracy,RMSE change vs naive (%),95% CI low (%),95% CI high (%),Days evaluated
+Next-day forecast (2024),Both,Naive (tomorrow = today),66.7188,47.6977,0.665,0.5659,0.0,0.0,0.0,311
+Next-day forecast (2024),Both,"ARIMA(1, 1, 1)",61.6379,45.6899,0.7141,0.5949,-7.6153,-10.6953,-4.0539,311
+Next-day forecast (2024),Strict,Random Forest,65.2251,48.9907,0.6799,0.5756,-2.2387,-6.9499,2.8628,311
+Next-day forecast (2024),Strict,XGBoost,63.6706,48.6583,0.6949,0.5852,-4.5686,-10.1258,1.7766,311
+Next-day forecast (2024),Same-day,Random Forest,47.1191,35.1489,0.8329,0.6624,-29.3765,-35.7822,-22.3444,311
+Next-day forecast (2024),Same-day,XGBoost,48.2807,36.0691,0.8246,0.6559,-27.6356,-34.6715,-19.8822,311
+30-day ARIMA experiment (Dec 2024): 30-day forecast,Both,"ARIMA(30,2,0)",120.3414,104.3423,,,,,,30
+30-day ARIMA experiment (Dec 2024): 30-day forecast,Both,Naive baseline,96.2505,81.1667,,,,,,30
+30-day ARIMA experiment (Dec 2024): 1-day-ahead,Both,"ARIMA(30,2,0)",78.0218,62.9723,,,,,,30
+30-day ARIMA experiment (Dec 2024): 1-day-ahead,Both,Naive baseline,78.2006,60.4667,,,,,,30

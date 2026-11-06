@@ -1,0 +1,5 @@
+Season,Naive,"ARIMA(1, 1, 1)",Random Forest (strict),XGBoost (strict)
+Monsoon (Jul-Sep),43.63,41.61,44.75,41.42
+Post-monsoon (Oct-Nov),36.49,36.66,38.94,43.89
+Summer (Mar-Jun),55.52,51.2,54.19,55.43
+Winter (Dec-Feb),51.32,50.02,54.4,51.78
